@@ -2,7 +2,7 @@
 permalink: /apply
 layout: single
 title: Call for Speakers
-classes: wide wide-hero
+classes: wide-hero
 header:
   image: /assets/images/Tech-Exeter-2018-365.jpg
 ---
