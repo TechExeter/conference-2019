@@ -11,11 +11,30 @@
     }
 }
 
+.wide-hero2 { 
+    .page__hero-image{ 
+        min-height: 150px;
+        max-height:400px;
+        object-fit: cover;
+    }
+}
+
 .grid-4col {
     display: grid; 
     grid-column-gap: 20px; 
     grid-row-gap: 20px; 
     grid-template-columns: auto auto auto auto; 
+}
+
+.grid-3col {
+    display: grid; 
+    grid-column-gap: 40px; 
+    grid-row-gap: 20px; 
+    grid-template-columns: auto auto auto; 
+}
+
+.testimonials {
+    font-size:130%;
 }
 
 @media screen and (max-width: 768px) {
@@ -24,4 +43,13 @@
         grid-row-gap: 20px; 
         grid-template-columns: auto auto ; 
     }
+
+
+    .grid-3col {
+        display: grid; 
+        grid-column-gap: 20px; 
+        grid-row-gap: 20px; 
+        grid-template-columns: auto; 
+    }
+
 }

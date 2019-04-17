@@ -6,9 +6,18 @@ main:
     url: /apply
   - title: "Become a sponsor"
     url: /sponsor
+  - title: "About Us"
+    url: /about
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+venue:
+  - title: "Quick Links"
+    children:
+      - title: Map and Directions
+        url: /images/campus_map_techexeter.png
+      - title: Visiting Exeter
+        url: https://www.visitexeter.com/

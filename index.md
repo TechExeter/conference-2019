@@ -25,7 +25,7 @@ This year we’re running three conference tracks (ranging from the not-so-techn
 
 We had 25 speakers from a wide range of organisations both local and international.
 
-<div style="background:#fff; padding:1em; margin:1em;box-shadow: gray 0px 0px 8px;" class="grid-4col">
+<div style="background:#fff; padding:1em; margin:1em;box-shadow: gray 0px 0px 8px;margin-bottom:1em;" class="grid-4col">
   <img src="/assets/images/2018/grid-ibm.jpg" class="el-image" alt=""/>        
   <img src="/assets/images/2018/grid-alexa.jpg" class="el-image" alt=""/>       
   <img src="/assets/images/2018/grid-metoffice.jpg" class="el-image" alt=""/>     
@@ -43,3 +43,25 @@ We had 25 speakers from a wide range of organisations both local and internation
   <img src="/assets/images/2018/grid-softwarecornwall.jpg" class="el-image" alt=""/>     
   <img src="/assets/images/2018/grid-postshift.jpg" class="el-image" alt=""/>        
 </div>
+
+### Testimonials
+
+<div class="grid-3col testimonials">
+  <div class="notice--info">
+  <p>Great day at #TechExeter conference. Thanks to all the speakers and everyone involved in organising the event - came away feeling inspired and buzzing with new ideas</p>
+  <p><em>- @OnlyInDevon</em></p>
+  </div>
+  <div class="notice--info">
+  <p>Thank you @TechExeter for an amazing day yesterday! Bring on next year! #CanIApplyForATalkYet</p>
+  <p><em>- @JordanTheCoder</em></p>
+  </div>
+  <div class="notice--info">
+  <p>Thank you so much @TechExeter for a fantastic conference and for taking positive action to encourage more #womenintech like me to present and talk about #STEM challenges.</p>
+  <p><em>- @tamsin_hodge</em></p>
+  </div>
+</div>
+
+
+## Tickets and Schedule
+
+Tickets and full scheudle will be released later this summer.
