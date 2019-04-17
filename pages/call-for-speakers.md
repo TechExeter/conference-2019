@@ -16,7 +16,7 @@ Our focus for this year's tech conference is around **Security** and **Hacking**
 Some notes
 
   * You don't need to have spoken at a conference before
-  * We welcome non-technical and super-technical submissions alike
+  * We welcome non-technical talks, but our focus is science / tech / engineering / art / math (STEAM)
   * Returning speakers are welcome
   * You can submit multiple talks
   * If you have a talk that isn't security focused - submit it anyway!
