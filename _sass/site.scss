@@ -1,0 +1,11 @@
+.responsive-video-container {
+    padding-bottom: 23.4% !important;
+}
+
+.wide-hero { 
+    .page__hero-image{ 
+        min-height: 150px;
+        max-height:250px;
+        object-fit: cover;
+    }
+}
