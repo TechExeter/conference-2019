@@ -39,5 +39,5 @@ Successful applicants will receive
   * Access to the speaker green room on the day, with quiet areas for working
   * Social media shout outs and a profile on our website
 
-<small>**Unfortunately we can not cover overseas travel expenses. Subject to approval.*</small>
+<small>**Subject to approval. Unfortunately we can not cover overseas travel expenses.*</small>
   

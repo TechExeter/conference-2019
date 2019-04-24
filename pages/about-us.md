@@ -20,3 +20,24 @@ We:
 
 <hr/>
 To find out more, visit our main site at <a href="https://techexeter.uk/2016/about-us/">https://techexeter.uk</a>
+
+<h1 id="contact">Contact Us</h1>
+
+<form action="https://formspree.io/conference@techexeter.uk" method="POST" style="background:#a5f3e5">
+				<div>
+					<label for="name">Name</label>
+					<input type="text" name="name" id="name">
+				</div>
+				<div>
+					<label for="email">Email</label>
+					<input type="text" name="_replyto" id="email">
+				</div>
+				<div>
+					<label for="message">Message</label>
+					<textarea name="message" id="message" rows="6"></textarea>
+				</div>
+				<ul class="actions">
+					<li><input type="submit" value="Send Message" class="btn btn--primary"></li>
+					<li><input type="reset" value="Clear" class="btn"></li>
+				</ul>
+			</form>
