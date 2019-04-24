@@ -28,13 +28,17 @@
 
 .grid-3col {
     display: grid; 
-    grid-column-gap: 40px; 
+    grid-column-gap: 20px; 
     grid-row-gap: 20px; 
     grid-template-columns: auto auto auto; 
 }
 
 .testimonials {
     font-size:130%;
+}
+
+li.strong { 
+    font-weight:bold;
 }
 
 @media screen and (max-width: 768px) {
@@ -53,3 +57,4 @@
     }
 
 }
+

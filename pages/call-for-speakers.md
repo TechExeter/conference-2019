@@ -17,7 +17,7 @@ Our call for speakers is **now open**, and we'd love to hear from you!
 Our focus for this year's tech conference is around **Security** and **Hacking**.
 
 {: .notice--info} 
-**For example:** *"Will quantum computers break encryption?" "How to keep wordpress sites safe from hackers" "How to do cloud deployment securely" "Accepting user input - coding defensively" "Hacking smarthome devices"*
+**For example:** *"Will quantum computers break encryption?" "How to keep wordpress sites safe from hackers" "How to do cloud deployment securely" "Accepting user input - coding defensively" "Hacking smarthome devices" "Top 10 tips for stopping cyber-crime"*
 
 Some notes
 
@@ -27,7 +27,9 @@ Some notes
   * You can submit multiple talks
   * If you have a talk that isn't security focused - submit it anyway!
 
-<a href="https://techexeter.typeform.com/to/Hm7Pyy" class="btn btn--primary">Apply Now</a>
+Check out the talks we had <a href="http://2018.conference.techexeter.uk/" target="_blank">last year</a>.
+
+<a href="https://techexeter.typeform.com/to/Hm7Pyy" class="btn btn--primary">Apply for a speaker slot</a> 
 
 Successful applicants will receive
 
