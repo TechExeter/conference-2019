@@ -7,7 +7,7 @@ classes:
   - neon-theme
 header:
   video:
-    id: 3167G1iNcDA?rel=0&loop=1&playlist=3167G1iNcDA&autoplay=1&controls=0&showinfo=0&iv_load_policy=3&modestbranding=1&wmode=transparent&playsinline=1&disablekb=1&enablejsapi=1
+    id: pHE8lfIRPnk?rel=0&loop=1&playlist=pHE8lfIRPnk&autoplay=1&controls=0&showinfo=0&iv_load_policy=3&modestbranding=1&wmode=transparent&playsinline=1&disablekb=1&enablejsapi=1
     provider: youtube
 ---
 {: .text-center}
@@ -64,4 +64,4 @@ We had 25 speakers from a wide range of organisations both local and internation
 
 ## Tickets and Schedule
 
-Tickets and full scheudle will be released later this summer.
+Tickets and full schedule will be released later this summer.

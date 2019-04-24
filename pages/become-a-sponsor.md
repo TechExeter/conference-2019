@@ -65,6 +65,11 @@ SETsquared” - Tech Nation 2018
     <li class="strong">Pop-up banner space in tracks 1+2+3</li>
     <li class="strong">Logo on delegate badges</li>
     <li class="strong">Exclusive sector representation</li>
+    <li class="strong">Invitation to the speaker dinner</li>
   </ul>
 </div>
 </div>
+
+
+<a href="/about#contact" class="btn btn--primary">Contact us</a> 
+
