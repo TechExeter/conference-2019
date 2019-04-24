@@ -12,9 +12,9 @@ header:
 ---
 {: .text-center}
 ## 11th September 2019, University of Exeter
-The multi-disciplinary, grassroots tech conference returns, with its inclusive, community ethos, and friendly, welcoming vibe.
+The multi-disciplinary, grassroots tech conference from <a href="/about">TechExeter CIC</a> returns, with its inclusive, community ethos, and friendly, welcoming vibe.
 
-This year we’re running three conference tracks (ranging from the not-so-technical through to the hardcore developer track), hot food catering, workshops and hands on sessions.
+With three conference tracks (ranging from the not-so-technical through to the hardcore developer track), hot food catering, workshops and hands on sessions, this marks our fourth annual conference hosted at the University of Exeter Business School and <a href="https://business-school.exeter.ac.uk/study/masters/mba/">The Exeter MBA</a>.
 
 <table style="width:100%; display:table; text-align:center;"><tr>
   <td><a href="/apply" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-bullhorn"></i><br/>Apply to speak</a></td>
