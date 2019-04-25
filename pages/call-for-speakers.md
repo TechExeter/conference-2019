@@ -16,8 +16,11 @@ Our call for speakers is **now open**, and we'd love to hear from you!
 
 Our focus for this year's tech conference is around **Security** and **Hacking**.
 
+*Deadline for submissions is midnight on May 25th 2019*
+
 {: .notice--info} 
-**For example:** *"Will quantum computers break encryption?" "How to keep wordpress sites safe from hackers" "How to do cloud deployment securely" "Accepting user input - coding defensively" "Hacking smarthome devices" "Top 10 tips for stopping cyber-crime"*
+**Example talk titles to get you thinking:**
+ *"Will quantum computers break encryption?" "How to keep wordpress sites safe from hackers" "How to do cloud deployment securely" "Accepting user input - coding defensively" "Hacking smarthome devices" "Top 10 tips for stopping cyber-crime"*
 
 Some notes
 
@@ -25,7 +28,7 @@ Some notes
   * We welcome non-technical talks, but our focus is science / tech / engineering / art / math (STEAM)
   * Returning speakers are welcome
   * You can submit multiple talks
-  * If you have a talk that isn't security focused - submit it anyway!
+  * If you have a talk that isn't security focused - submit it anyway! We might select it for one of our other events!
 
 Check out the talks we had <a href="http://2018.conference.techexeter.uk/" target="_blank">last year</a>.
 
