@@ -24,7 +24,6 @@ Our focus for this year's tech conference is around **Security** and **Hacking**
   * You can submit multiple talks
   * If you have a talk that isn't security focused - submit it anyway! We have 3 tracks of talks to fill, plus monthly meetups, so we need your submissions!
 
-Check out the talks we had <a href="http://2018.conference.techexeter.uk/" target="_blank">last year</a>.
 
 {: .notice--info} 
 **Example talk titles to get you thinking:**
@@ -32,10 +31,12 @@ Check out the talks we had <a href="http://2018.conference.techexeter.uk/" targe
 
 <a href="https://techexeter.typeform.com/to/Hm7Pyy" class="btn btn--primary">Apply for a speaker slot</a> 
 
-Successful applicants will receive
 
-  * Entry to the conference and the pre-conference speaker dinner
-  * Support for first-time speakers to perfect their presentations
+Check out the talks we had <a href="http://2018.conference.techexeter.uk/" target="_blank">last year</a>. This year, successful applicants will receive
+
+  * Free entry to the conference
+  * An invitation to the pre-conference VIP dinner
+  * Support for all speakers (including first timers) to perfect their presentations
   * Subsidised travel and accomodation costs*
   * Access to the speaker green room on the day, with quiet areas for working
   * Social media shout outs and a profile on our website
