@@ -5,7 +5,7 @@ title: About us
 classes: wide-hero2
 share: true
 header:
-  image: /assets/images/about_us.jpg
+  image: /assets/images/about_us2.jpg
 ---
 TechExeter <em>(and it's sister community Digital Exeter)</em> are community groups, driven by a passionate volunteer leadership team. Entirely self-funded as a CIC, we champion all things Tech and Digital in the region. All the money we raise goes back into supporting the community.
 
