@@ -16,7 +16,7 @@ Our call for speakers is **now open**, and we'd love to hear from you!
 
 Our focus for this year's tech conference is around **Security** and **Hacking**.
 
-*Deadline for submissions is midnight on May 25th 2019*
+*Deadline for submissions is midnight on May <span style="text-decoration:line-through">25th</span> (extended) 29th 2019*
 
   * You don't need to have spoken at a conference before
   * We welcome non-technical talks, but our focus is science / tech / engineering / art / math (STEAM)
