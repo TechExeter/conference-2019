@@ -33,6 +33,15 @@
     grid-template-columns: auto auto auto; 
 }
 
+.grid-3col.no-h-gutter {
+    grid-row-gap: 0px; 
+    margin-bottom:1em;
+}
+.grid-3col.no-h-gutter > div {
+    margin-bottom: 0px !important;
+    margin-top: 0px !important;
+}
+
 .testimonials {
     font-size:130%;
 }
@@ -55,6 +64,10 @@ li.strong {
         grid-row-gap: 20px; 
         grid-template-columns: auto; 
     }
-
+    
+    .grid-3col.no-collapse {
+        grid-column-gap: 10px; 
+        grid-template-columns: repeat(3, minmax(186px, 1fr));
+    }
 }
 

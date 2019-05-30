@@ -2,7 +2,7 @@
 permalink: /sponsor
 layout: single
 title: Become a sponsor
-classes: wide-hero
+classes: wide-hero wide
 header:
   image: /assets/images/Tech-Exeter-2018-143.jpg
 ---
@@ -17,9 +17,13 @@ supported by leading incubators like
 SETsquared” - Tech Nation 2018
 </div>
 
+### Corporate & Social Responsibility
+
+Every sponsor packge purchased will contribute additional tickets into our reduced-cost ticket pool, giving students and those from low-income households easier access to our conference.
+
 ## Put your brand in front of over 200 tech and digital professionals
 
-<div class="grid-3col">
+<div class="grid-3col no-h-gutter no-collapse">
 
 <div class="notice--warning">
 <h1>Bronze</h1>
@@ -30,7 +34,7 @@ SETsquared” - Tech Nation 2018
     <li>Distribute leaflets to delegates</li>
     <li>Social media mentions - Twitter</li>
     <li>Exhibition space</li>
-    <li>Small logo, URL inside programme</li>
+    <li>Sponsors 1 reduced-cost ticket</li>
   </ul>
 </div>
 <div class="notice">
@@ -42,11 +46,7 @@ SETsquared” - Tech Nation 2018
     <li>Distribute leaflets to delegates</li>
     <li>Social media mentions - Facebook, Twitter, Instagram</li>
     <li>Prominent Exhibition space</li>
-  </ul>
-  <hr/>
-  <ul>
-    <li class="strong">Logo, URL + profile inside programme</li>
-    <li class="strong">Pop-up banner space in tracks 2+3</li>
+    <li>Sponsors 2 reduced-cost tickets</li>
   </ul>
 </div>
 <div class="notice--success">
@@ -58,8 +58,24 @@ SETsquared” - Tech Nation 2018
     <li>Distribute leaflets to delegates</li>
     <li>Social media mentions - Facebook, Twitter, Instagram, LinkedIn</li>
     <li>Prominent Exhibition space</li>
+    <li>Sponsors 4 reduced-cost tickets</li>
   </ul>
-  <hr/>
+</div>
+
+<div class="notice--warning">
+  <ul>
+    <li>Small logo, URL inside programme</li>
+  </ul>
+</div>
+
+<div class="notice">
+  <ul>
+    <li class="strong">Logo, URL + profile inside programme</li>
+    <li class="strong">Pop-up banner space in tracks 2+3</li>
+  </ul>
+</div>
+
+<div class="notice--success">
   <ul>
     <li class="strong">Logo, URL + profile inside programme</li>
     <li class="strong">Pop-up banner space in tracks 1+2+3</li>
@@ -68,6 +84,7 @@ SETsquared” - Tech Nation 2018
     <li class="strong">Invitation to the speaker dinner</li>
   </ul>
 </div>
+
 </div>
 
 

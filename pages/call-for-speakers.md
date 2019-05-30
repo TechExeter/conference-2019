@@ -9,10 +9,13 @@ header:
 sidebar:
 - image: /assets/images/Tech-Exeter-2018-240.jpg
   image_alt: "2018 speaker Caitlin Gould"
-  text: <span style="margin-bottom:1em;display:block;">Caitlin Gould speaking in 2018</span><a href="https://techexeter.typeform.com/to/Hm7Pyy" class="btn btn--primary btn--x-large">Apply Now</a>
+  text: <span style="margin-bottom:1em;display:block;">Caitlin Gould speaking in 2018</span>
 
 ---
-Our call for speakers is **now open**, and we'd love to hear from you!
+{: .notice--warning} 
+Our call for speakers is **now closed**. Thank you for your submissions - we'll be in touch as soon as we've assembled the team to sift through your entries!
+
+<hr/>
 
 Our focus for this year's tech conference is around **Security** and **Hacking**.
 
@@ -28,9 +31,6 @@ Our focus for this year's tech conference is around **Security** and **Hacking**
 {: .notice--info} 
 **Example talk titles to get you thinking:**
  *"Will quantum computers break encryption?" "How to keep wordpress sites safe from hackers" "How to do cloud deployment securely" "Accepting user input - coding defensively" "Hacking smarthome devices" "Top 10 tips for stopping cyber-crime"*
-
-<a href="https://techexeter.typeform.com/to/Hm7Pyy" class="btn btn--primary">Apply for a speaker slot</a> 
-
 
 Check out the talks we had <a href="http://2018.conference.techexeter.uk/" target="_blank">last year</a>. This year, successful applicants will receive
 
