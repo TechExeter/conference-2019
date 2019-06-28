@@ -2,18 +2,14 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Apply to speak"
-    url: /apply
+  - title: "Schedule"
+    url: /schedule
   - title: "Become a sponsor"
     url: /sponsor
+  - title: "Venue"
+    url: /venue
   - title: "About / Contact"
     url: /about
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
 venue:
   - title: "Quick Links"
     children:
