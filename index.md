@@ -14,34 +14,40 @@ header:
 ## 11th September 2019, University of Exeter
 The multi-disciplinary, grassroots tech conference from <a href="/about">TechExeter CIC</a> returns, with its inclusive, community ethos, and friendly, welcoming vibe.
 
-With three conference tracks (ranging from the not-so-technical through to the hardcore developer track), hot food catering, workshops and hands on sessions, this marks our fourth annual conference hosted at the University of Exeter Business School and <a href="https://business-school.exeter.ac.uk/study/masters/mba/">The Exeter MBA</a>.
+With three conference tracks (TECH, HACK, and DEVELOP), four workshops and hands-on sessions, hot food catering, this marks our fourth annual conference hosted at the University of Exeter Business School and <a href="https://business-school.exeter.ac.uk/study/masters/mba/">The Exeter MBA</a>.
 
 <table style="width:100%; display:table; text-align:center;"><tr>
-  <td><a href="/apply" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-bullhorn"></i><br/>Apply to speak</a></td>
+  <td><a href="/tickets" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-ticket-alt"></i><br/>Tickets</a></td>
+    <td><a href="/schedule" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-calendar-alt"></i><br/>Schedule</a></td>
   <td><a href="/sponsor" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-ribbon"></i><br/>Become a sponsor</a></td>
 </tr></table>
 
-## Last year ...
+## 2019: TECH / HACK / DEVELOP
 
-We had 25 speakers from a wide range of organisations both local and international.
+Our conference has a mixture of different talks to suit our diverse audience - this year we have an underlying theme of data / security with a mix of technical &amp; non-technical talks, workshops, hands-on hacking and deep dives.
+
+This year we have 26 speakers from a wide range of organisations both local and international, speaking across multiple tracks which are <a href="/schedule">scheduled</a> so you can move between them easily. 
 
 <div style="background:#fff; padding:1em; margin:1em;box-shadow: gray 0px 0px 8px;margin-bottom:1em;" class="grid-4col">
-  <img src="/assets/images/2018/grid-ibm.jpg" class="el-image" alt=""/>        
-  <img src="/assets/images/2018/grid-alexa.jpg" class="el-image" alt=""/>       
-  <img src="/assets/images/2018/grid-metoffice.jpg" class="el-image" alt=""/>     
-  <img src="/assets/images/2018/grid-edf.jpg" class="el-image" alt=""/>        
-  <img src="/assets/images/2018/grid-cray.jpg" class="el-image" alt=""/>        
-  <img src="/assets/images/2018/grid-justeat.jpg" class="el-image" alt=""/>       
-  <img src="/assets/images/2018/grid-UKHO.jpg" class="el-image" alt=""/>        
-  <img src="/assets/images/2018/grid-ATS.jpg" class="el-image" alt=""/>        
-  <img src="/assets/images/2018/grid-arm.jpg" class="el-image" alt=""/>        
-  <img src="/assets/images/2018/grid-exetercollege.jpg" class="el-image" alt=""/> 
-  <img src="/assets/images/2018/grid-food.jpg" class="el-image" alt=""/>        
-  <img src="/assets/images/2018/grid-landmark.jpg" class="el-image" alt=""/>        
-  <img src="/assets/images/2018/grid-semtech.jpg" class="el-image" alt=""/>        
-  <img src="/assets/images/2018/grid-elixel.jpg" class="el-image" alt=""/>        
-  <img src="/assets/images/2018/grid-softwarecornwall.jpg" class="el-image" alt=""/>     
-  <img src="/assets/images/2018/grid-postshift.jpg" class="el-image" alt=""/>        
+  <img src="/assets/images/company-logos/3b-data-security-white.gif" class="el-image" alt=""/>        
+  <img src="/assets/images/company-logos/adarga-white.gif" class="el-image" alt=""/>       
+  <img src="/assets/images/company-logos/food-standards-agency.gif" class="el-image" alt=""/>     
+  <img src="/assets/images/company-logos/hacker-house-white.gif" class="el-image" alt=""/>        
+  <img src="/assets/images/company-logos/ibm.gif" class="el-image" alt=""/>        
+  <img src="/assets/images/company-logos/krowdthink-white.gif" class="el-image" alt=""/>       
+  <img src="/assets/images/company-logos/ncc-group.gif" class="el-image" alt=""/>        
+  <img src="/assets/images/company-logos/nexus-mods-white.gif" class="el-image" alt=""/>        
+  <img src="/assets/images/company-logos/regional-cyber-crime-unit-white.gif" class="el-image" alt=""/>        
+  <img src="/assets/images/company-logos/securious-white.gif" class="el-image" alt=""/> 
+  <img src="/assets/images/company-logos/software-solved-white.gif" class="el-image" alt=""/>        
+  <img src="/assets/images/company-logos/source-code-control-white.gif" class="el-image" alt=""/>        
+  <img src="/assets/images/company-logos/sparx.gif" class="el-image" alt=""/>        
+  <img src="/assets/images/company-logos/spirent.gif" class="el-image" alt=""/>        
+  <img src="/assets/images/company-logos/story-stream-white.gif" class="el-image" alt=""/>     
+  <img src="/assets/images/company-logos/tech-nation-white.gif" class="el-image" alt=""/>     
+  <img src="/assets/images/company-logos/titania.gif" class="el-image" alt=""/>          
+  <img src="/assets/images/company-logos/ukho-white.gif" class="el-image" alt=""/>       
+  <img src="/assets/images/company-logos/uoe-white.gif" class="el-image" alt=""/>       
 </div>
 
 ### Testimonials
