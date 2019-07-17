@@ -2,18 +2,21 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+ 
+  - title: "Tickets"
+    url: /tickets
   - title: "Schedule"
     url: /schedule
-  - title: "Become a sponsor"
+  - title: "Sponsor"
     url: /sponsor
-  - title: "Venue"
-    url: /venue
   - title: "About / Contact"
     url: /about
-venue:
+tickets:
   - title: "Quick Links"
     children:
-      - title: Map and Directions
-        url: /images/campus_map_techexeter.png
-      - title: Visiting Exeter
-        url: https://www.visitexeter.com/
+      - title: Direct Booking Link
+        url: #tba
+      - title: Venue Info
+        url: /#venue
+      - title: Venue Map
+        url: /assets/images/campus_map_techexeter.png
