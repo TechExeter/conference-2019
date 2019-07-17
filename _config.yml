@@ -154,6 +154,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/techexeter"
 
+head_scripts:
+  - /assets/js/textscramble.js
 
 # Reading Files
 include:

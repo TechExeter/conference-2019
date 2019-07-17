@@ -1,3 +1,5 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:100';
+
 .responsive-video-container {
     padding-bottom: 23.4% !important;
     min-height: 150px;
@@ -23,7 +25,7 @@
     display: grid; 
     grid-column-gap: 20px; 
     grid-row-gap: 20px; 
-    grid-template-columns: auto auto auto auto; 
+    grid-template-columns: repeat(4, 1fr);
 }
 
 .grid-3col {
@@ -71,10 +73,81 @@ li.strong {
     }
 }
 
+.speakers {
+    background: url(/assets/images/background-colourful.jpg);
+    background-repeat: repeat;
+    background-size: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 1em;
+    margin-top:1em;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+
+    .grid-4col {
+        align-items: start;
+        justify-items: stretch;
+    }
+
+    > h2 {
+        color:#fff;
+        border-bottom:none;
+        text-align:center;
+        margin-bottom:1em;
+        margin-bottom: 20px;
+        font-size: 3em;
+        margin-top: 0px;
+    }
+}
+
+.speaker {
+    color:#fff;
+    text-align:center;
+    img {
+        display:block;
+        margin:auto;
+        max-width:250px;
+        border: 7px solid #fff;
+        border-radius: 50%;
+        max-width: 250px;
+        background: #fff;
+        &:hover {
+            box-shadow:0 0 10px rgba(0,0,0,.5) !important;
+            border-width:0px;
+        }
+    }
+    h2 {
+        border-bottom: 3px solid #fff !important;
+        display:inline-block;
+    }
+    p {
+        text-align:center;
+    }
+}
 
 .Emoji--forText {
     height: 1.25em;
     width: 1.25em;
     padding: 0 .05em 0 .1em;
     vertical-align: -0.2em;
+}
+
+.hacker { 
+    // background: #212121;
+    height:3em;
+    font-family: 'Roboto Mono', monospace;
+    .container {
+        height: 100%;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+    .text {
+        font-weight: 100;
+        font-size: 28px;
+        color: #11999E;
+    }
+    .dud {
+        color: #757575;
+    }
 }

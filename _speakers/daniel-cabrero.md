@@ -1,9 +1,9 @@
 ---
 name: Daniel Cabrero
-title: 
-company: 
+title: JOB_TITLE
+company: COMPANY
 talk-title: 
-headshot: /assets/images/headshots/daniel-cabrero.png
+headshot: /assets/images/headshots/head-daniel-cabrero.jpg
 track: 
 timeslot: 
 type: 

@@ -23,7 +23,38 @@ With three conference tracks (TECH, HACK, and DEVELOP), four workshops and hands
   <td><a href="/sponsor" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-ribbon"></i><br/>Sponsor</a></td>
 </tr></table>
 
-## 2019: TECH / HACK / DEVELOP
+<div class="hacker">
+  <div class="container">
+  <div id="hackertext" class="text"></div>
+  </div>
+</div>
+<script>
+
+  const phrases = [
+    '2019',
+    'TECH',
+    'HACK',
+    'DEVELOP',
+    '',
+    'Neo, there\'s a difference',
+    'between knowing the path',
+    'and walking the path',
+    '',
+  ]
+  
+  const el = document.querySelector('#hackertext')
+  const fx = new TextScramble(el)
+  
+  let counter = 0
+  const next = () => {
+    fx.setText(phrases[counter]).then(() => {
+      setTimeout(next, 1000)
+    })
+    counter = (counter + 1) % phrases.length
+  }
+  
+  next()
+  </script>
 
 Our conference has a mixture of different talks to suit our diverse audience - this year we have an underlying theme of data / security with a mix of technical &amp; non-technical talks, workshops, hands-on hacking and deep dives.
 

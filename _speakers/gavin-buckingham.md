@@ -3,7 +3,7 @@ name: Gavin Buckingham
 title: Senior lecturer
 company: University of Exeter
 talk-title: Hacking human perception - illusions and virtual reality
-headshot: /assets/images/headshots/gavin-buckingham.jpg
+# headshot: /assets/images/headshots/gavin-buckingham.jpg
 track: 2
 timeslot: "12.00"
 type: Talk, 30 minutes + hands on session
