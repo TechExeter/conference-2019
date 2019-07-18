@@ -6,15 +6,22 @@ classes:
   - landing
   - neon-theme
 header:
-  video:
-    id: pHE8lfIRPnk?rel=0&loop=1&playlist=pHE8lfIRPnk&autoplay=1&controls=0&showinfo=0&iv_load_policy=3&modestbranding=1&wmode=transparent&playsinline=1&disablekb=1&enablejsapi=1
-    provider: youtube
+  image: /assets/images/website-header-2.jpg
+#  video:
+#    id: pHE8lfIRPnk?rel=0&loop=1&playlist=pHE8lfIRPnk&autoplay=1&controls=0&showinfo=0&iv_load_policy=3&modestbranding=1&wmode=transparent&playsinline=1&disablekb=1&enablejsapi=1
+#    provider: youtube
 ---
-{: .text-center}
+
 ## 11th September 2019, University of Exeter
 The multi-disciplinary, grassroots tech conference from <a href="/about">TechExeter CIC</a> returns, with its inclusive, community ethos, and friendly, welcoming vibe.
 
-With three conference tracks (TECH, HACK, and DEVELOP), four workshops and hands-on sessions, hot food catering, this marks our fourth annual conference hosted at the University of Exeter Business School and <a href="https://business-school.exeter.ac.uk/study/masters/mba/">The Exeter MBA</a>.
+<div class="hacker">
+  <div class="container">
+  <div id="hackertext" class="text"></div>
+  </div>
+</div>
+
+With three conference tracks (TECH, HACK, and DEVELOP), four workshops and hands-on sessions, hot food catering, this marks our fourth annual conference hosted at the University of Exeter Business School and <a href="https://business-school.exeter.ac.uk/study/masters/mba/">The Exeter MBA</a>.  This year we have a data &amp; security theme with a mix of technical &amp; non-technical talks, workshops, hands-on hacking and deep dives.
 
 <table style="width:100%; display:table; text-align:center;"><tr>
   <td><a href="/tickets" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-ticket-alt"></i><br/>Tickets</a></td>
@@ -23,15 +30,11 @@ With three conference tracks (TECH, HACK, and DEVELOP), four workshops and hands
   <td><a href="/sponsor" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-ribbon"></i><br/>Sponsor</a></td>
 </tr></table>
 
-<div class="hacker">
-  <div class="container">
-  <div id="hackertext" class="text"></div>
-  </div>
-</div>
+
 <script>
 
   const phrases = [
-    '2019',
+    '11th September 2019',
     'TECH',
     'HACK',
     'DEVELOP',
@@ -56,7 +59,6 @@ With three conference tracks (TECH, HACK, and DEVELOP), four workshops and hands
   next()
   </script>
 
-Our conference has a mixture of different talks to suit our diverse audience - this year we have an underlying theme of data / security with a mix of technical &amp; non-technical talks, workshops, hands-on hacking and deep dives.
 
 This year we have <strong>26 speakers</strong> from a wide range of organisations both local and international, speaking across multiple tracks which are <a href="/schedule">scheduled</a> so you can move between them easily. We've got space for <strong>200 delegates</strong>, who will be a mix of tech and digital professionals, educators, students, upskillers and hobbyists - so you'll be in good company.
 

@@ -1,20 +1,16 @@
 ---
 layout: default
 ---
-<div id="main" role="main">
+{% assign seo_title = page.name %}
+<div id="main" role="main" class="speaker-page">
 
-  <h1>Speaker Profile</h1>
-  
-  <hr/>
-
-  <div class="sidebar sticky">
+  <div class="sidebar nosticky">
 
     <img src="{{ page.headshot }}" alt="{{ page.name }}">
     <h2 id="name" class="page__title" itemprop="headline">{{ page.name | markdownify | remove: "<p>" | remove: "</p>" }}</h2>
-    <div>
+    <div class="speaker-title">
     <strong>{{ page.title }}</strong> {% if page.company %}  at {{ page.company }} {% endif %}
    </div>
-
 
     {% if page.twitter %}
     <div>
@@ -61,20 +57,23 @@ layout: default
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
 
     <div class="page__inner-wrap">
-
       <section class="page__content" itemprop="text">
         {% unless page.header.overlay_color or page.header.overlay_image %}
-        <header>
-          {% if page.talk-title %}<h1 id="page-title" class="page__title" itemprop="headline">{{ page.talk-title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
-        </header>
-        {% endunless %}
-        <aside class="sidebar__right sticky">
-          <nav class="toc">
-            <header><h4 class="nav__title">Talk Details</h4></header>
-            <ul class="toc__menu">
-              <li><a href="/schedule.html#track {{ page.track }}">Track : {{ page.track }}</a></li>
-              <li><a href="/schedule.html#time_{{ page.timeslot }}">Start Time : {{ page.timeslot }}</a></li>
-              <li><a href="#">Level: 
+
+        <div class="align-with-pic">
+          <header>
+            {% if page.talk-title %}<h1 id="page-title" class="page__title" itemprop="headline">{{ page.talk-title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+          </header>
+          {% endunless %}
+          
+          <table>
+            <tr>
+              <td>Track: <a href="/schedule.html#track {{ page.track }}">{{ page.track }}</a></td>
+              <td>{{ page.type }}</td>
+            </tr>
+            <tr>
+              <td>Start Time: <a href="/schedule.html#time_{{ page.timeslot }}">{{ page.timeslot }}</a></td>
+              <td>Level: 
                   {% if page.level == 1 %}
                   No prior knowledge / entry-level
                   {% endif %}
@@ -83,12 +82,10 @@ layout: default
                   {% endif %}
                   {% if page.level == 3 %}
                   Advanced
-                  {% endif %}</a>
-                </li>
-            </ul>
-            
-          </nav>
-        </aside>
+                  {% endif %}</td>
+            </tr>
+          </table>
+        </div>
         {{ content }}
         </section>
 
@@ -104,6 +101,7 @@ layout: default
         {% endif %}
       </footer>
 
+      <a href="/speakers" class="btn btn--primary" style="margin:1em 0px;">View all speakers</a>
       {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% include post_pagination.html %}

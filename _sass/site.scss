@@ -74,7 +74,7 @@ li.strong {
 }
 
 .speakers {
-    background: url(/assets/images/background-colourful.jpg);
+    background: url(/assets/images/background-colourful-tall.jpg);
     background-repeat: repeat;
     background-size: auto;
     background-size: cover;
@@ -123,6 +123,51 @@ li.strong {
         text-align:center;
     }
 }
+
+
+.layout--speakers {
+    .sidebar {
+        img {
+            margin-bottom:0px;
+        }
+        h2 {
+            margin-top:0px;
+            background: #000;
+            color: #fff;
+            padding: 0.3em;
+        }
+        .speaker-title {
+            font-size:90%;
+            padding: 0.3em;
+            margin-top:0px;
+        }
+    }
+    .align-with-pic {
+        margin-top: 278px;
+        padding-top:0.3em;
+
+        table {
+            margin-bottom:3em;
+            display:table;
+        }
+    }
+
+}
+
+@media screen and (max-width: 80em) {
+    .sidebar {
+        img {
+            max-height:500px;
+            object-fit:contain;
+        }
+    }
+    .layout--speakers {
+        .align-with-pic {
+            margin-top:0px; 
+        }
+    }
+}
+
 
 .Emoji--forText {
     height: 1.25em;
