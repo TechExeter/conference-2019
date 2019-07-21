@@ -61,31 +61,40 @@ layout: default
         {% unless page.header.overlay_color or page.header.overlay_image %}
 
         <div class="align-with-pic">
-          <header>
+          <table>
+              <tr>
+                <td>Track: <a href="/schedule.html#track {{ page.track }}">{{ page.track }}
+                {% if page.track == 1 %}
+                (TECH)
+                {% endif %}
+                {% if page.track == 2 %}
+                (HACK)
+                {% endif %}
+                {% if page.track == 3 %}
+                (DEVELOP)
+                {% endif %}
+              </a></td>
+                <td>{{ page.type }}</td>
+              </tr>
+              <tr>
+                <td>Start Time: <a href="/schedule.html#time_">TBA</a></td>
+                <td>Level: 
+                    {% if page.level == 1 %}
+                    No prior knowledge / entry-level
+                    {% endif %}
+                    {% if page.level == 2 %}
+                    Mid-level, some knowledge required
+                    {% endif %}
+                    {% if page.level == 3 %}
+                    Advanced
+                    {% endif %}</td>
+              </tr>
+            </table>
+          {% endunless %}
+        </div>
+        <header>
             {% if page.talk-title %}<h1 id="page-title" class="page__title" itemprop="headline">{{ page.talk-title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
           </header>
-          {% endunless %}
-          
-          <table>
-            <tr>
-              <td>Track: <a href="/schedule.html#track {{ page.track }}">{{ page.track }}</a></td>
-              <td>{{ page.type }}</td>
-            </tr>
-            <tr>
-              <td>Start Time: <a href="/schedule.html#time_{{ page.timeslot }}">{{ page.timeslot }}</a></td>
-              <td>Level: 
-                  {% if page.level == 1 %}
-                  No prior knowledge / entry-level
-                  {% endif %}
-                  {% if page.level == 2 %}
-                  Mid-level, some knowledge required
-                  {% endif %}
-                  {% if page.level == 3 %}
-                  Advanced
-                  {% endif %}</td>
-            </tr>
-          </table>
-        </div>
         {{ content }}
         </section>
 

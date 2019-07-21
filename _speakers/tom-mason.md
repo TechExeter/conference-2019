@@ -1,19 +1,24 @@
 ---
 name: Tom Mason
-title: JOB_TITLE
-company: COMPANY
-talk-title: TALK_TITLE
-# headshot: /assets/images/headshots/head-olly-stephens.jpg
-track: 1
-timeslot: "00.00"
-type: Talk, 30 minutes
-level: X
+title: Director of Programming (CTO)
+company: Neuxs Mods
+talk-title: Securing docker containers
+headshot: /assets/images/headshots/head-tom-mason.jpg
+track: 3
+timeslot: "14.45"
+type: Talk, 45 minutes
+level: 2
 twitter:
-# - tn_southwest 
+ - tomrmason
 # linkedin: 
 takeaways:
-# - Item 1
+ - Some basic tips for securing containers
+ - Best practices for how to structure your development process
+ - How to implement this into your CI/CD pipeline
+
 
 ---
 
-Placeholder
+The world is moving to docker, but are you taking the necessary steps to keep yourself safe ? 
+
+We’ll go through methods to reduce your exposure to security issues running containers in production.

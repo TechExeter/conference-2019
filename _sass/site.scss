@@ -135,6 +135,7 @@ li.strong {
             background: #000;
             color: #fff;
             padding: 0.3em;
+            min-height: 44px;
         }
         .speaker-title {
             font-size:90%;
@@ -143,14 +144,39 @@ li.strong {
         }
     }
     .align-with-pic {
-        margin-top: 278px;
+        height: 278px;
         padding-top:0.3em;
-
+        flex-flow: column;
+        justify-content: flex-end;
+        display:flex;
+        background:url('/assets/images/background-colourful.jpg');
+        background-size:cover;
         table {
-            margin-bottom:3em;
+            margin-bottom:0;
             display:table;
+            td {
+                border-bottom: 0px;
+                color: #fff;
+                a { 
+                    color:#fff;
+                }
+                a:hover {
+                    color:#000;
+                }
+            }
         }
     }
+    header { 
+        color:#fff;
+        background: #000000;
+        padding:0.5em;
+        h1 { margin:0px; }
+    }
+    h3 {
+        color:#fff;
+        background: #000000;
+        padding:0.5em;
+     }
 
 }
 
@@ -164,6 +190,7 @@ li.strong {
     .layout--speakers {
         .align-with-pic {
             margin-top:0px; 
+            height:auto;
         }
     }
 }

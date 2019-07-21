@@ -16,7 +16,7 @@ header:
   <div class="speaker">
     <a href="{{ speaker.url }}"><img class=" circle" src="{{speaker.headshot}}"/></a>
     <h2>{{ speaker.name }}</h2>
-    <p><strong>{{ speaker.title }}</strong> at {{ speaker.company }}</p>
+    <p><strong>{{ speaker.title }}</strong> {% if speaker.company %}  at {{ speaker.company }} {% endif %}</p>
   </div>
 {% endfor %}
 </div>
