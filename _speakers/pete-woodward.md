@@ -16,8 +16,6 @@ takeaways:
  - Common attack vectors for Ecommerce sites
  - Advice on securing Ecommerce sites
 
-
-
 ---
 Far too many businesses are unaware that it is mandatory to comply with the Payment Card Industry Data Security Standard (PCI DSS) if they accept credit card payments.   This is a huge blind-spot and it is putting businesses in the South West at risk of attack. Many organisations are under the misguided belief that using PCI compliant payment providers such as Sagepay, Stripe or Worldpay confers PCI compliance on their business. 
 

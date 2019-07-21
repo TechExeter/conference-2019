@@ -5,7 +5,7 @@ company: Krowdthink Ltd
 talk-title: Building an unhackable social platform
 headshot: /assets/images/headshots/head-geoff-revill.jpg
 track: 2
-timeslot: "05.00"
+timeslot: "15.00"
 type: Talk, 30 minutes
 level: 2
 twitter:

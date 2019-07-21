@@ -14,7 +14,7 @@ takeaways:
  - What is Privacy and why is it important?
  - GDPR and Data Protection Act Principles
  - The NIST Cybersecurity framework and its importance in designing privacy policies
-
+tags: [ workshop ]
 ---
 {: .notice--warning} 
 Note: This is a workshop session

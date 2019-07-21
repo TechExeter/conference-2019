@@ -1,7 +1,6 @@
 ---
 name: Caroline Clark
 title: Operations Director
-seo_title: Caroline Clark, Operations Director, KETS Quantum Security
 company: KETS Quantum Security
 talk-title: Quantum Communications 
 headshot: /assets/images/headshots/head-caroline-clark.jpg

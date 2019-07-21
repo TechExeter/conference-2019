@@ -22,7 +22,6 @@ The misconception is that now people are moving to the cloud, security is no lon
 
 <p>This talk demonstrates the shared responsibility between clients and cloud providers, with some interesting facts and war stories along the way.</p>
 
-
 {% include speakers-takeaways.html %}
 <h3>Bio</h3>
 

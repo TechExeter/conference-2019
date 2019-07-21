@@ -15,7 +15,7 @@ takeaways:
 - An understanding of Open Source components
 - Openchain - a future standard in managing open source in order to protect your supply chain
 - the importance of technical due diligence
-
+tags: [ workshop ]
 ---
 
 {: .notice--warning} 

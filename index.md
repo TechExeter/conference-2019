@@ -25,7 +25,7 @@ With three conference tracks (TECH, HACK, and DEVELOP), four workshops and hands
 
 <table style="width:100%; display:table; text-align:center;"><tr>
   <td><a href="/tickets" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-ticket-alt"></i><br/>Tickets</a></td>
-  <td><a href="/schedule" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-calendar-alt"></i><br/>Schedule</a></td>
+  <!--<td><a href="/schedule" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-calendar-alt"></i><br/>Schedule</a></td>-->
   <td><a href="/speakers" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-user"></i><br/>Speakers</a></td>
   <td><a href="/sponsor" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-ribbon"></i><br/>Sponsor</a></td>
 </tr></table>
@@ -60,7 +60,7 @@ With three conference tracks (TECH, HACK, and DEVELOP), four workshops and hands
   </script>
 
 
-This year we have <strong>26 speakers</strong> from a wide range of organisations both local and international, speaking across multiple tracks which are <a href="/schedule">scheduled</a> so you can move between them easily. We've got space for <strong>200 delegates</strong>, who will be a mix of tech and digital professionals, educators, students, upskillers and hobbyists - so you'll be in good company.
+This year we have <strong>26 speakers</strong> from a wide range of organisations both local and international, speaking across multiple tracks which are scheduled so you can move between them easily. We've got space for <strong>200 delegates</strong>, who will be a mix of tech and digital professionals, educators, students, upskillers and hobbyists - so you'll be in good company.
 
 <div style="background:#fff; padding:1em; margin:1em;box-shadow: gray 0px 0px 8px;margin-bottom:1em;" class="grid-4col">
   <img src="/assets/images/company-logos/3b-data-security-white.gif" class="el-image" alt=""/>        
@@ -86,6 +86,8 @@ This year we have <strong>26 speakers</strong> from a wide range of organisation
 
 ### Testimonials
 
+<img src="/assets/images/gathering-1.jpg" class="el-image" alt=""/>     
+
 <div class="grid-3col testimonials">
   <div class="notice--info">
   <p>Great day at #TechExeter conference. Thanks to all the speakers and everyone involved in organising the event - came away feeling inspired and buzzing with new ideas</p>
@@ -104,7 +106,6 @@ This year we have <strong>26 speakers</strong> from a wide range of organisation
 <div id="venue"></div>
 ### Venue / Directions
    
-<img src="/assets/images/Tech-Exeter-2018-365.jpg" class="el-image" alt=""/>     
 
 We're located across Building One and the XFI Centre - a fabulous venue set in the beautiful University grounds. The Business School at the University of Exeter is one of the UK's leading centres of business education and research.
 

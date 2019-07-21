@@ -16,7 +16,7 @@ takeaways:
  - A greater security awareness
  - How a red team operates
  - How a blue team should defend
-
+tags: [ workshop ]
 ---
 {: .notice--warning} 
 Note: This is a workshop session

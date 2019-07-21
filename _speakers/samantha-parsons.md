@@ -15,7 +15,7 @@ takeaways:
  - Understanding of basic Cyber Security Controls
  - Awareness of Cyber Threats
  - Advice on protecting your organsiation from Cyber Crime
-
+tags: [ workshop ]
 ---
 {: .notice--warning} 
 Note: This is a workshop session

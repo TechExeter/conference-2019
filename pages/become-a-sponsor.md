@@ -5,9 +5,11 @@ title: Become a sponsor
 classes: wide-hero wide
 header:
   image: /assets/images/Tech-Exeter-2018-143.jpg
+sidebar:
+  - text: <h2>Tech For Good</h2> Every sponsor packge purchased will contribute additional tickets into our reduced-cost ticket pool, giving students and those from low-income households easier access to our conference.
 ---
 
-We work in close partnership with our sponsors to make sure they get the most out of our events.
+For the past four years, we've held Exeter's only grass-roots tech conference, a sell-out event which attracts local and national speakers across a broad range of themes for our ever expanding tech &amp; digital community.
 
 <div class="notice--info">
 “Tech Exeter and Digital Exeter are at
@@ -17,11 +19,11 @@ supported by leading incubators like
 SETsquared” - Tech Nation 2018
 </div>
 
-### Corporate & Social Responsibility
-
-Every sponsor packge purchased will contribute additional tickets into our reduced-cost ticket pool, giving students and those from low-income households easier access to our conference.
-
 ## Put your brand in front of over 200 tech and digital professionals
+The beautiful venue at the University of Exeter is the perfect space to network, upskill, mingle and  engage with a wide range of delegates including business leaders, scientists, engineers and developers. 
+
+<img src="/assets/images/sponsor-2.jpg">
+
 
 <div class="grid-3col no-h-gutter no-collapse">
 
@@ -71,7 +73,7 @@ Every sponsor packge purchased will contribute additional tickets into our reduc
 <div class="notice">
   <ul>
     <li class="strong">Logo, URL + profile inside programme</li>
-    <li class="strong">Pop-up banner space in tracks 2+3</li>
+    <li class="strong">1x Pop-up banner space in track 2 or 3</li>
   </ul>
 </div>
 
@@ -103,9 +105,12 @@ Every sponsor packge purchased will contribute additional tickets into our reduc
 </div>
 
 
-<a href="/about#contact" class="btn btn--primary">Contact us</a> 
+<a href="/about#contact" class="btn btn--primary">Contact us</a> <a href="#" class="btn btn--primary">Download Sponsorship PDF (coming soon)</a> 
 
 <h2>Details</h2>
+
+<strong>VIP passes</strong>
+* VIP passes get you into our green room and chill out areas, where you can chat with speakers and also have desk space if you need to work during the day
 
 <strong>Exhibition Space</strong>
 
