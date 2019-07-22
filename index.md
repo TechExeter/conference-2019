@@ -23,14 +23,6 @@ The multi-disciplinary, grassroots tech conference from <a href="/about">TechExe
 
 With three conference tracks (TECH, HACK, and DEVELOP), four workshops and hands-on sessions, hot food catering, this marks our fourth annual conference hosted at the University of Exeter Business School and <a href="https://business-school.exeter.ac.uk/study/masters/mba/">The Exeter MBA</a>.  This year we have a data &amp; security theme with a mix of technical &amp; non-technical talks, workshops, hands-on hacking and deep dives.
 
-<!-->
-<table style="width:100%; display:table; text-align:center;"><tr>
-  <td><a href="/tickets" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-ticket-alt"></i><br/>Tickets</a></td>
-  <!--<td><a href="/schedule" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-calendar-alt"></i><br/>Schedule</a></td>- - >
-  <td><a href="/speakers" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-user"></i><br/>Speakers</a></td>
-  <td><a href="/sponsor" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-ribbon"></i><br/>Sponsor</a></td>
-</tr></table>
--->
 
 <div class="action-buttons">
   <div class="action-button">
@@ -130,3 +122,9 @@ We're located across Building One and the XFI Centre - a fabulous venue set in t
 Car parking is available at Car Park C (public car park). Places on a first come first served basis. 
 
 Alternative all-day parking is available at the <a href="https://goo.gl/maps/YmtXn5QaZAka7QtT9" target="_blank" rel="nofollow noopener">Devon & Exeter Squash Club</a> on Prince Charles Road.
+
+<div class="action-buttons">
+  <div class="action-button">
+    <a href="/tickets" class="btn btn--primary btn--x-large"><i class="fas fa-ticket-alt"></i><br/>Tickets</a>
+  </div>
+</div>
