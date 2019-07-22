@@ -4,7 +4,7 @@ title: Consultant
 company: Babilim Light Industries
 talk-title: The Demise of Big Data — Making Intelligent Insights at the Edge
 headshot: /assets/images/headshots/head-alasdair-allan.jpg
-track: 1
+track: "1"
 timeslot: "11.30"
 type: Talk, 45 minutes
 level: 1

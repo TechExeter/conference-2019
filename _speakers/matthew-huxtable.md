@@ -4,7 +4,7 @@ title: Site Reliability Engineer
 company: Sparx
 talk-title: The forgotten musketeer - availability is a security concern too!
 headshot: /assets/images/headshots/head-matthew-huxtable.jpg
-track: 3
+track: "3"
 timeslot: "16.00"
 type: Talk, 45 minutes
 level: 1

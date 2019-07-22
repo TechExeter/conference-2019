@@ -4,7 +4,8 @@ title: Lead Data Scientist
 company: Food Standards Agency
 talk-title: Track Host for Track 3
 headshot: /assets/images/headshots/head-lucy-knight.jpg
-track: 3
+track: "3"
+sortoverride: 1
 timeslot: "10.00 - 17.00"
 type: Track Host
 level: 

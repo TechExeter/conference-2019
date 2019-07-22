@@ -4,7 +4,7 @@ title: Principal Technical Consultant
 company: Software Solved Ltd
 talk-title: Using the Web Cryptography API in PWAs/SPAs
 headshot: /assets/images/headshots/head-jon-stace.jpg
-track: 3
+track: "3"
 timeslot: "11.30"
 type: Talk, 30 minutes
 level: 2

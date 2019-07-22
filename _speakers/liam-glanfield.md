@@ -1,9 +1,9 @@
 ---
-name: Liam Gladfield
+name: Liam Glanfield
 title: Managing Consultant
 company: NCC Group
 talk-title: Know Your Threat Actor
-headshot: /assets/images/headshots/head-liam-gladfield.jpg
+headshot: /assets/images/headshots/head-liam-glanfield.jpg
 track: Workshop
 timeslot: "14.00"
 type: Talk + Workshop, 2 hours
@@ -33,4 +33,4 @@ You should have a laptop that has a <a href="https://www.kali.org/" target="_bla
 <h3>Bio</h3>
 Experienced sysadmin now working in cyber security.
 
-Liam also runs the Exter Defcon chapter 441392 at <a href=" https://dc441392.org.uk/" target="_blank" rel="noopener noreferrer">dc441392.org.uk</a>, promoting ethical hacking, responsible disclosure and network defence in depth.
+Liam also runs the Exeter Defcon chapter 441392 at <a href=" https://dc441392.org.uk/" target="_blank" rel="noopener noreferrer">dc441392.org.uk</a>, promoting ethical hacking, responsible disclosure and network defence in depth.

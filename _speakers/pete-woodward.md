@@ -4,7 +4,7 @@ title: Cyber Security Professional
 company: Securious
 talk-title: The anatomy of a payment card breach
 headshot: /assets/images/headshots/head-pete-woodward.jpg
-track: 2
+track: "2"
 timeslot: "14.00"
 type: Talk, 30 minutes
 level: 1

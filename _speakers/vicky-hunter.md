@@ -4,7 +4,7 @@ title: Entrepreneur Engagement Manager
 company: Tech Nation
 talk-title: How to Hack the Tech Ecosystem
 headshot: /assets/images/headshots/head-vicky-hunter.jpg
-track: 1
+track: "1"
 timeslot: "10.30"
 type: Talk, 30 minutes
 level: 1

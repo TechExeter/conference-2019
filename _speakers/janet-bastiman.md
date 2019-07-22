@@ -4,7 +4,7 @@ title: Chief Science Officer
 company: Storystream, MMC Ventures
 talk-title: Reject the evidence of your eyes and ears
 headshot: /assets/images/headshots/head-janet-bastiman.jpg
-track: 1
+track: "1"
 timeslot: "14.00"
 type: Talk, 45 minutes
 level: 2

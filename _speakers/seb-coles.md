@@ -4,7 +4,7 @@ title: Expert Software Engineer
 company: UK Hydrographic Office
 talk-title: Developer Threat Modelling
 headshot: /assets/images/headshots/head-seb-coles.jpg
-track: 3
+track: "3"
 timeslot: "10.00"
 type: Talk, 45 minutes
 level: 1

@@ -4,7 +4,7 @@ title: Associate Professor Psychology
 company: University of Exeter
 talk-title: Futures made of virtual reality - Hacking VR for learning
 headshot: /assets/images/headshots/head-sam-vine.jpg
-track: 2
+track: "2"
 timeslot: "11.30"
 type: Talk, 30 minutes
 level: 2

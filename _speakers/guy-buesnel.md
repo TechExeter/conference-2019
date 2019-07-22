@@ -4,7 +4,7 @@ title: PNT Security Technologist
 company: Spirent
 talk-title: Trust but Verify - When GPS can go wrong
 headshot: /assets/images/headshots/head-guy-buesnel.jpg
-track: 1
+track: "1"
 timeslot: "16.00"
 type: Talk, 30 minutes
 level: 1

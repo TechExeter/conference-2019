@@ -4,7 +4,7 @@ title: Co-founder & CEO
 company: Securious
 talk-title: Why we need diversity in cyber security - for everyone’s sake!
 headshot: /assets/images/headshots/head-roz-woodward.jpg
-track: 2
+track: "2"
 timeslot: "14.30"
 type: Talk, 30 minutes
 level: 1

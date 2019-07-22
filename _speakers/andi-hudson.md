@@ -4,7 +4,8 @@ title: Cloud Security Architecture Lead
 company: IBM Security
 talk-title: How do you secure a cloud? 
 headshot: /assets/images/headshots/head-andi-hudson.jpg
-track: 1
+track: "1"
+sortoverride: 1
 timeslot: "09.30"
 type: Keynote Presentation, 30 minutes
 level: 1
