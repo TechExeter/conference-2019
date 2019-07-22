@@ -96,7 +96,9 @@ li.strong {
         grid-template-columns: repeat(3, minmax(186px, 1fr));
     }
     
-    
+    .hacker {
+        height:6em !important;
+    } 
 }
 
 .speakers {
@@ -225,6 +227,7 @@ li.strong {
             height:auto;
         }
     }
+    
 }
 
 
@@ -237,6 +240,7 @@ li.strong {
 
 .hacker { 
     // background: #212121;
+    margin-top:-1.3em;
     height:3em;
     font-family: 'Roboto Mono', monospace;
     .container {
@@ -252,6 +256,7 @@ li.strong {
         color: #11999E;
     }
     .dud {
-        color: #757575;
+        color: rgb(250, 89, 183);
+        background-color:#eee;
     }
 }
