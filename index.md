@@ -23,13 +23,26 @@ The multi-disciplinary, grassroots tech conference from <a href="/about">TechExe
 
 With three conference tracks (TECH, HACK, and DEVELOP), four workshops and hands-on sessions, hot food catering, this marks our fourth annual conference hosted at the University of Exeter Business School and <a href="https://business-school.exeter.ac.uk/study/masters/mba/">The Exeter MBA</a>.  This year we have a data &amp; security theme with a mix of technical &amp; non-technical talks, workshops, hands-on hacking and deep dives.
 
+<!-->
 <table style="width:100%; display:table; text-align:center;"><tr>
   <td><a href="/tickets" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-ticket-alt"></i><br/>Tickets</a></td>
-  <!--<td><a href="/schedule" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-calendar-alt"></i><br/>Schedule</a></td>-->
+  <!--<td><a href="/schedule" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-calendar-alt"></i><br/>Schedule</a></td>- - >
   <td><a href="/speakers" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-user"></i><br/>Speakers</a></td>
   <td><a href="/sponsor" class="btn btn--primary btn--x-large" style="font-size: 2.5em;"><i class="fas fa-ribbon"></i><br/>Sponsor</a></td>
 </tr></table>
+-->
 
+<div class="action-buttons">
+  <div class="action-button">
+    <a href="/tickets" class="btn btn--primary btn--x-large"><i class="fas fa-ticket-alt"></i><br/>Tickets</a>
+  </div>
+  <div class="action-button">
+    <a href="/speakers" class="btn btn--primary btn--x-large" ><i class="fas fa-user"></i><br/>Speakers</a>
+  </div>
+  <div class="action-button">
+    <a href="/sponsor" class="btn btn--primary btn--x-large"><i class="fas fa-ribbon"></i><br/>Sponsor</a>
+  </div>
+</div>
 
 <script>
 
@@ -57,7 +70,7 @@ With three conference tracks (TECH, HACK, and DEVELOP), four workshops and hands
   }
   
   next()
-  </script>
+</script>
 
 
 This year we have <strong>26 speakers</strong> from a wide range of organisations both local and international, speaking across multiple tracks which are scheduled so you can move between them easily. We've got space for <strong>200 delegates</strong>, who will be a mix of tech and digital professionals, educators, students, upskillers and hobbyists - so you'll be in good company.

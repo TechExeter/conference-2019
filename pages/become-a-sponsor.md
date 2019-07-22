@@ -25,9 +25,9 @@ The beautiful venue at the University of Exeter is the perfect space to network,
 <img src="/assets/images/sponsor-2.jpg">
 
 
-<div class="grid-3col no-h-gutter no-collapse">
+<div class="grid-3col no-h-gutter">
 
-<div class="notice--warning">
+<div class="notice--warning bronze">
 <h1>Bronze</h1>
 <h2>£500 +VAT</h2>
   <ul>
@@ -39,7 +39,7 @@ The beautiful venue at the University of Exeter is the perfect space to network,
     <li>Sponsors 1 reduced-cost ticket</li>
   </ul>
 </div>
-<div class="notice">
+<div class="notice silver">
 <h1>Silver</h1>
 <h2>£1,000 +VAT</h2>
   <ul>
@@ -51,7 +51,7 @@ The beautiful venue at the University of Exeter is the perfect space to network,
     <li>Sponsors 2 reduced-cost tickets</li>
   </ul>
 </div>
-<div class="notice--success">
+<div class="notice--success gold">
 <h1>Gold</h1>
 <h2>£2,000 +VAT</h2>
   <ul>
@@ -64,20 +64,20 @@ The beautiful venue at the University of Exeter is the perfect space to network,
   </ul>
 </div>
 
-<div class="notice--warning">
+<div class="notice--warning bronze">
   <ul>
     <li>Small logo, URL inside programme</li>
   </ul>
 </div>
 
-<div class="notice">
+<div class="notice silver">
   <ul>
     <li class="strong">Logo, URL + profile inside programme</li>
     <li class="strong">1x Pop-up banner space in track 2 or 3</li>
   </ul>
 </div>
 
-<div class="notice--success">
+<div class="notice--success gold">
   <ul>
     <li class="strong">Logo, URL + profile inside programme</li>
     <li class="strong">Pop-up banner space in tracks 1+2+3</li>
