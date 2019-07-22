@@ -4,7 +4,7 @@ title: User Research consultant
 company: Personas Technology Ltd
 talk-title: Personas & Anti-Personas for Hacking & Anti-Hacking
 headshot: /assets/images/headshots/head-daniel-cabrero.jpg
-track: 1
+track: "1"
 timeslot: "14.45"
 type: Talk, 45 minutes
 level: 1

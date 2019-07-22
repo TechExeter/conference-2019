@@ -4,7 +4,7 @@ title: DevSecOps Architect
 company: Adarga
 talk-title: Policy as code - why you should, how you can
 headshot: /assets/images/headshots/head-olly-stephens.jpg
-track: 3
+track: "3"
 timeslot: "14.00"
 type: Talk, 45 minutes
 level: 1

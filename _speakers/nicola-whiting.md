@@ -4,7 +4,7 @@ title: Chief Strategy Officer
 company: Titania Group
 talk-title: A.I. Diversity, Discrimination and Nation State Defence
 headshot: /assets/images/headshots/head-nicola-whiting.jpg
-track: 2
+track: "2"
 timeslot: "16.00"
 type: Talk, 45 minutes
 level: 2

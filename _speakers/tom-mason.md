@@ -4,7 +4,7 @@ title: Director of Programming (CTO)
 company: Neuxs Mods
 talk-title: Securing docker containers
 headshot: /assets/images/headshots/head-tom-mason.jpg
-track: 3
+track: "3"
 timeslot: "14.45"
 type: Talk, 45 minutes
 level: 2
