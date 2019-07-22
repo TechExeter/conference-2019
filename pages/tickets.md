@@ -15,4 +15,4 @@ Our tech  + digital communities have grown immensely over the past four years, a
 **Reduced Cost Tickets**<br/>
 If you are from a disadvanted background or are a poor student, then we have a limited number of reduced cost tickets available. These tickets have been kindly funded by community donations and by our sponsors. *If you need more assistance to be able to attend the conference, <a href="http://127.0.0.1:4000/about#contact">drop us a message</a>*
 
-[ BOOKING IFRAME ]
+[ Tickets are coming very soon! Please check back tomorrow. ]
