@@ -17,7 +17,8 @@ We:
 * Put on the <a href="https://gameplay.techexeter.uk" target="_blank">GAME>PLAY gaming festival</a>
 * Exhibit at events like the Big Bang Fair, VentureFest and have close links with Exeter City Council, ExIST, Tech South West and Tech Nation UK
 * Support our neighbouring communities in Plymouth, Cornwall, North Devon, Somerset, Bristol and Bath
-* Are championing diversity - keep an eye out for our <a href="https://techexeter.uk/tag/diversity/">diversity</a> initiatives!
+* Are championing diversity and inclusivity - keep an eye out for our <a href="https://techexeter.uk/tag/diversity/">diversity</a> initiatives!
+* Putting tech careers in front of young people via <a href="https://techexeter.uk/tag/education/">outreach into education</a>
 
 <hr/>
 To find out more, visit our main site at <a href="https://techexeter.uk/2016/about-us/">https://techexeter.uk</a>

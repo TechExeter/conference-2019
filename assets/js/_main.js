@@ -26,10 +26,10 @@ $(document).ready(function() {
         : !$(".author__urls-wrapper button").is(":visible");
     if (show) {
       // fix
-      $(".sidebar").addClass("sticky");
+      $(".sidebar:not(.nosticky)").addClass("sticky");
     } else {
       // unfix
-      $(".sidebar").removeClass("sticky");
+      $(".sidebar:not(.nosticky)").removeClass("sticky");
     }
   };
 
@@ -92,6 +92,9 @@ $(document).ready(function() {
       events: true // if true, emit custom events
     });
   }
+  /* 
+  
+  disabled 
   
   // add lightbox class to all image links
   $(
@@ -132,4 +135,7 @@ $(document).ready(function() {
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
+*/
+
+
 });

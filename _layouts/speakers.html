@@ -1,0 +1,124 @@
+---
+layout: default
+---
+{% assign seo_title = page.name %}
+<div id="main" role="main" class="speaker-page">
+
+  <div class="sidebar nosticky">
+
+    <img src="{{ page.headshot }}" alt="{{ page.name }}">
+    <h2 id="name" class="page__title" itemprop="headline">{{ page.name | markdownify | remove: "<p>" | remove: "</p>" }}</h2>
+    <div class="speaker-title">
+    <strong>{{ page.title }}</strong> {% if page.company %}  at {{ page.company }} {% endif %}
+   </div>
+
+    {% if page.twitter %}
+    <div>
+    {% for twitter_handle in page.twitter %}
+      <a class="twitter" style="display:block;" href="https://twitter.com/{{ twitter_handle }}" target="_blank" rel="nofollow noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> {{ twitter_handle }}</a>
+    {% endfor %}
+    </div>
+    {% endif %}
+    {% if page.linkedin %}
+    <div>
+    {% for linkedin in page.linkedin %}
+      <a class="linkedin" href="https://linkedin.com/in/{{ linkedin }}" target="_blank" rel="nofollow noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> {{ linkedin }}</a>
+    {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+    {% if page.sidebar %}
+      {% for s in page.sidebar %}
+        {% if s.image %}
+          <img src=
+          {% if s.image contains "://" %}
+            "{{ s.image }}"
+          {% else %}
+            "{{ s.image | relative_url }}"
+          {% endif %}
+          alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+        {% endif %}
+        {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+        {% if s.text %}{{ s.text | markdownify }}{% endif %}
+        {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
+      {% endfor %}
+      {% if page.sidebar.nav %}
+        {% include nav_list nav=page.sidebar.nav %}
+      {% endif %}
+    {% endif %}
+    </div>
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
+
+    <div class="page__inner-wrap">
+      <section class="page__content" itemprop="text">
+        {% unless page.header.overlay_color or page.header.overlay_image %}
+
+        <div class="align-with-pic">
+          <table>
+              <tr>
+                <td>Track: <a href="/schedule.html#track {{ page.track }}">{{ page.track }}
+                {% if page.track == 1 %}
+                (TECH)
+                {% endif %}
+                {% if page.track == 2 %}
+                (HACK)
+                {% endif %}
+                {% if page.track == 3 %}
+                (DEVELOP)
+                {% endif %}
+              </a></td>
+                <td>{{ page.type }}</td>
+              </tr>
+              <tr>
+                <td>Start Time: <a href="/schedule.html#time_">TBA</a></td>
+                <td>Level: 
+                    {% if page.level == 1 %}
+                    No prior knowledge / entry-level
+                    {% endif %}
+                    {% if page.level == 2 %}
+                    Mid-level, some knowledge required
+                    {% endif %}
+                    {% if page.level == 3 %}
+                    Advanced
+                    {% endif %}</td>
+              </tr>
+            </table>
+          {% endunless %}
+        </div>
+        <header>
+            {% if page.talk-title %}<h1 id="page-title" class="page__title" itemprop="headline">{{ page.talk-title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+          </header>
+        {{ content }}
+        </section>
+
+      <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% include page__taxonomy.html %}
+        {% if page.last_modified_at %}
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %d, %Y" }}</time></p>
+        {% elsif page.date %}
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+        {% endif %}
+      </footer>
+
+      {% include post_pagination.html %}
+      <a href="/speakers" class="btn btn--primary" style="margin:1em 0px;">View all speakers</a>
+      {% if page.share %}{% include social-share.html %}{% endif %}
+
+    </div>
+
+    {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
+      {% include comments.html %}
+    {% endif %}
+  </article>
+
+</div>

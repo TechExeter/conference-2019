@@ -16,6 +16,7 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll"
 gem "minimal-mistakes-jekyll"
 
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]  if Gem.win_platform?
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
 # The following plugins are automatically loaded by the theme-gem:
