@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "TechExeter"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/favicon.png"
   bio              : "Doing good things with Tech"
   location         : "Exeter, UK"
   email            :
