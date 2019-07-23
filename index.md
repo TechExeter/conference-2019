@@ -117,6 +117,8 @@ We're located across Building One and the XFI Centre - a fabulous venue set in t
 * Map and Directions : <a href="/assets/images/campus_map_techexeter.png" target="_blank">Campus Map</a>
 * Visiting Exeter : Find out more about visiting Exeter at <a href="https://www.visitexeter.com/" target="_blank" rel="nofollow noopener">www.visitexeter.com</a>
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d323217.8869494084!2d-3.529957!3d50.735897!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486da443c2591225%3A0xec7a55c9956b4bd7!2sXFi+Building%2C+Exeter+EX4+4ST!5e0!3m2!1sen!2suk!4v1563888754741!5m2!1sen!2suk" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 #### Parking
 
 Car parking is available at Car Park C (public car park). Places on a first come first served basis. 

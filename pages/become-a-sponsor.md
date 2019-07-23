@@ -105,7 +105,7 @@ The beautiful venue at the University of Exeter is the perfect space to network,
 </div>
 
 
-<a href="/about#contact" class="btn btn--primary">Contact us</a> <a href="#" class="btn btn--primary">Download Sponsorship PDF (coming soon)</a> 
+<a href="/about#contact" class="btn btn--primary">Contact us</a> <!--<a href="#" class="btn btn--primary">Download Sponsorship PDF (coming soon)</a> -->
 
 <h2>Details</h2>
 
