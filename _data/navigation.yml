@@ -17,7 +17,7 @@ tickets:
   - title: "Quick Links"
     children:
       - title: Direct Booking Link
-        url: #tba
+        url: https://helmtickets.com/events/4561/techexeter-annual-conference-2019
       - title: Venue Info
         url: /#venue
       - title: Venue Map
