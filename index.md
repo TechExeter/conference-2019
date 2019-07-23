@@ -65,7 +65,7 @@ With three conference tracks (TECH, HACK, and DEVELOP), four workshops and hands
 </script>
 
 
-This year we have <strong>26 speakers</strong> from a wide range of organisations both local and international, speaking across multiple tracks which are scheduled so you can move between them easily. We've got space for <strong>200 delegates</strong>, who will be a mix of tech and digital professionals, educators, students, upskillers and hobbyists - so you'll be in good company.
+This year we have <strong>25 speakers</strong> from a wide range of organisations both local and international, speaking across multiple tracks which are scheduled so you can move between them easily. We've got space for <strong>200 delegates</strong>, who will be a mix of tech and digital professionals, educators, students, upskillers and hobbyists - so you'll be in good company.
 
 <div style="background:#fff; padding:1em; margin:1em;box-shadow: gray 0px 0px 8px;margin-bottom:1em;" class="grid-4col">
   <img src="/assets/images/company-logos/3b-data-security-white.gif" class="el-image" alt=""/>        
