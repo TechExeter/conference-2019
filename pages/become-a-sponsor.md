@@ -33,7 +33,7 @@ The beautiful venue at the University of Exeter is the perfect space to network,
   <ul>
     <li>1 VIP + 1 Exhibitor pass</li>
     <li>Logo and link on website</li>
-    <li>Distribute items (e.g. leflets) in delegate bags</li>
+    <li>Distribute items (e.g. leaflets) in delegate bags</li>
     <li>Social media mentions - Twitter</li>
     <li>Exhibition space</li>
     <li>Sponsors 1 reduced-cost ticket</li>
@@ -45,7 +45,7 @@ The beautiful venue at the University of Exeter is the perfect space to network,
   <ul>
     <li>2 VIP + 1 Exhibitor pass</li>
     <li>Logo and link on website</li>
-    <li>Distribute items (e.g. leflets) in delegate bags</li>
+    <li>Distribute items (e.g. leaflets) in delegate bags</li>
     <li>Social media mentions - Facebook, Twitter, Instagram</li>
     <li>Prominent Exhibition space</li>
     <li>Sponsors 2 reduced-cost tickets</li>
@@ -57,7 +57,7 @@ The beautiful venue at the University of Exeter is the perfect space to network,
   <ul>
     <li>3 VIP + 2 Exhibitor passes</li>
     <li>Logo and link on website</li>
-    <li>Distribute items (e.g. leflets) in delegate bags</li>
+    <li>Distribute items (e.g. leaflets) in delegate bags</li>
     <li>Social media mentions - Facebook, Twitter, Instagram, LinkedIn</li>
     <li>Prominent Exhibition space</li>
     <li>Sponsors 4 reduced-cost tickets</li>
@@ -98,7 +98,7 @@ The beautiful venue at the University of Exeter is the perfect space to network,
 <h2>£200 +VAT</h2>
   <ul>
     <li>Logo and link on website</li>
-    <li>Distribute items (e.g. leflets) in delegate bags</li>
+    <li>Distribute items (e.g. leaflets) in delegate bags</li>
     <li>Sponsors 1 reduced-cost ticket</li>
   </ul>
 </div>
