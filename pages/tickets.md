@@ -5,11 +5,11 @@ title: Tickets
 classes: wide-hero wide
 share: true
 header:
-#  image: /assets/images/Tech-Exeter-2018-365.jpg
 sidebar:
+- image: /assets/images/tickets-1.jpg
   nav: tickets
 ---
-Our tech  + digital communities have grown immensely over the past four years, and we're proud to have kept our costs low. Any profit we make from this event goes back into the community (part of our Community Interest Company <a href="/about">mission statement</a>).
+Our tech  + digital communities have grown immensely over the past four years, and we're proud to have kept our costs low. Any profit we make from this event goes back into the community (part of our Community Interest Company <a href="/about">mission statement</a>). 
 
 Your ticket includes:
 
@@ -27,3 +27,6 @@ For those from disadvanted backgrounds or on a low income, we have a limited num
 Select 'standard ticket' and then enter the discount code at the bottom of the next page.
 
 <script type="text/javascript" src="https://helmtickets.com/events/script/4561"></script>
+
+{: .notice} 
+*Tickets are now subject to VAT - the ticketing system will provide you with VAT invoices.*
