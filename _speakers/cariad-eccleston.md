@@ -1,6 +1,6 @@
 ---
 name: Cariad Eccleston
-title: Indie publisher
+title: Indie author
 talk-title: Strong, secure & human-free database credentials in Amazon Web Services
 headshot: /assets/images/headshots/head-cariad-eccleston.jpg
 track: "2"
@@ -22,7 +22,7 @@ What if you're deploying infrastructure-as-code? Do you ask a trusted human to r
 
 What's the worst that could happen, right?
 
-I'll show you how to script the creation, encryption and storage of secrets in AWS. No human needs to see that password, know that password, or type in that password  Only the code that needs access will be granted access.
+I'll show you how to script the creation, encryption and storage of secrets in AWS. No human needs to see that password, know that password, or type in that password. Only the code that needs access will be granted access.
 
 {% include speakers-takeaways.html %}
 
