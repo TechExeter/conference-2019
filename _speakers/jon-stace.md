@@ -1,6 +1,6 @@
 ---
 name: Jon Stace
-title: Principal Technical Consultant
+title: Director of Technology
 company: Software Solved Ltd
 talk-title: Using the Web Cryptography API in PWAs/SPAs
 headshot: /assets/images/headshots/head-jon-stace.jpg
