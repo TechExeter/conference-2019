@@ -26,4 +26,4 @@ I'll show you how these fakes can be created and what hope we have for distingui
 {% include speakers-takeaways.html %}
 
 <h3>Bio</h3>
-Janet heads up the Artificial Intelligence division at StoryStream and an an AI Venture Partner at investment firm MMC ventures.  As an experienced C-level professional, she helps start-up companies build their AI strategy to saleable products.  Janet regularly speaks and writes on technical subjects.
+Janet heads up the Artificial Intelligence division at StoryStream and is an AI Venture Partner at investment firm MMC ventures.  As an experienced C-level professional, she helps start-up companies build their AI strategy to saleable products.  Janet regularly speaks and writes on technical subjects.
