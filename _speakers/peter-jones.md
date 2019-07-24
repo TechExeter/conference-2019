@@ -2,7 +2,7 @@
 name: Peter Jones
 title: Senior Information Security Consultant 
 company: 3B Data Security
-talk-title: The anatomy of a payment card breach
+talk-title: Practical Digital Forensics when everything is ablaze.
 headshot: /assets/images/headshots/head-peter-jones.jpg
 track: "2"
 timeslot: "12.15"
