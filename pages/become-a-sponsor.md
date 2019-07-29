@@ -6,7 +6,7 @@ classes: wide-hero wide
 header:
   image: /assets/images/Tech-Exeter-2018-143.jpg
 sidebar:
-  - text: <h2>Tech For Good</h2> Every sponsor packge purchased will contribute additional tickets into our reduced-cost ticket pool, giving students and those from low-income households easier access to our conference.
+  - text: <h2>Tech For Good</h2> Every sponsor package purchased will contribute additional tickets into our reduced-cost ticket pool, giving students and those from low-income households easier access to our conference.
 ---
 
 For the past four years, we've held Exeter's only grass-roots tech conference, a sell-out event which attracts local and national speakers across a broad range of themes for our ever expanding tech &amp; digital community.
