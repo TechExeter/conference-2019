@@ -1,6 +1,6 @@
 ---
 name: Pete Woodward
-title: Cyber Security Professional 
+title: Co-founder and CTO
 company: Securious
 talk-title: The anatomy of a payment card breach
 headshot: /assets/images/headshots/head-pete-woodward.jpg
