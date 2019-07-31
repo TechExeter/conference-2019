@@ -121,6 +121,8 @@ header:
 
 </div>
 
+<div style="text-align:center;"><em>* Schedule is subject to change</em></div>
+
 
 <h1>Workshops</h1>
 
