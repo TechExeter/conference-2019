@@ -7,6 +7,7 @@ headshot: /assets/images/headshots/head-stephanie-itimi.jpg
 track: Workshop
 timeslot: "14.45"
 type: Workshop, 1 hour
+description: This workshop focuses on the basics of privacy. What the GDPR and Data Protection Act really means, how it can be applied and how can you create privacy policies that users and employees alike actually want.
 level: 1
 twitter:
  - afrocheri 

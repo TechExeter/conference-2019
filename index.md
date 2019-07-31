@@ -29,6 +29,9 @@ With three conference tracks (TECH, HACK, and DEVELOP), four workshops and hands
     <a href="/tickets" class="btn btn--primary btn--x-large"><i class="fas fa-ticket-alt"></i><br/>Tickets</a>
   </div>
   <div class="action-button">
+    <a href="/schedule" class="btn btn--primary btn--x-large"><i class="far fa-calendar-alt"></i><br/>Schedule</a>
+  </div>
+  <div class="action-button">
     <a href="/speakers" class="btn btn--primary btn--x-large" ><i class="fas fa-user"></i><br/>Speakers</a>
   </div>
   <div class="action-button">

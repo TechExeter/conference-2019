@@ -5,10 +5,10 @@ main:
  
   - title: "Tickets"
     url: /tickets
+  - title: "Schedule"
+    url: /schedule
   - title: "Speakers"
     url: /speakers
-#  - title: "Schedule"
-#    url: /schedule
   - title: "Sponsor"
     url: /sponsor
   - title: "About / Contact"

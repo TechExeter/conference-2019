@@ -7,6 +7,7 @@ headshot: /assets/images/headshots/head-samantha-parsons.jpg
 track: Workshop
 timeslot: "10.00"
 type: Workshop, 2 hours
+description: Work in teams to manage the cyber security of a fictional organisation, with Lego!
 level: X
 twitter:
  - swrccu

@@ -260,3 +260,80 @@ li.strong {
         background-color:#eee;
     }
 }
+
+
+#schedule { 
+    .item {
+        padding:0.3em; 
+        &.head {
+            color: #fff;
+            padding: 0.5em;
+
+            &.t1 {
+                background-color:#11999E;
+            }        
+            &.t2 {
+                background-color:#c5206d;
+            }        
+            &.t3 {
+                background-color:#f88e21;
+            }
+        }
+
+        &.t1 {
+            background-color:scale-color(#11999E,$lightness: 90%);
+        }
+        &.t2 {
+            background-color:scale-color(#c5206d,$lightness: 90%);
+        }
+        &.t3 {
+            background-color:scale-color(#f88e21, $lightness: 90%);
+        }
+
+        h2 {
+            margin-top:0;
+            padding-bottom: 0;
+            border-bottom: none;
+            margin:0px;
+            font-size:1.1em;
+        }
+        .speaker {
+            color:#000;
+            text-align:left;
+            max-width:auto;
+            font-size:0.8em;
+        }
+        .type {
+            color:#888;
+            font-size:0.8em;
+        }
+
+        &.time {
+            h2 {
+                font-size:1em;
+                font-weight:normal;
+                color:#888;
+                margin-top:0.08em;
+            }
+        }
+
+        &.break, 
+        &.lunch {
+            background: #11999E;
+            color:#fff;
+            padding:0.5em;
+            h2 { 
+                margin:0px;
+            }
+        }
+
+    }
+}
+
+#workshops {
+    .speaker {
+        color:#000;
+        text-align:left;
+        max-width:auto;
+    }
+}

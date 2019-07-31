@@ -7,6 +7,7 @@ headshot: /assets/images/headshots/head-liam-glanfield.jpg
 track: Workshop
 timeslot: "14.00"
 type: Talk + Workshop, 2 hours
+description: An intro to common approaches taken to compromise a business and their systems. Try out the attack vectors for real in greater depth on our test network.
 level: 2
 twitter:
  - OneLogicalMyth 

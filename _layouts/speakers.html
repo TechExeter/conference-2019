@@ -63,7 +63,7 @@ layout: default
         <div class="align-with-pic">
           <table>
               <tr>
-                <td>Track: <a href="/schedule.html#track {{ page.track }}">{{ page.track }}
+                <td>Track: <a href="/schedule#track_{{ page.track }}">{{ page.track }}
                 {% if page.track == 1 %}
                 (TECH)
                 {% endif %}
@@ -77,7 +77,7 @@ layout: default
                 <td>{{ page.type }}</td>
               </tr>
               <tr>
-                <td>Start Time: <a href="/schedule.html#time_">TBA</a></td>
+                <td>Start Time: <a href="/schedule#time_{{ page.timeslot | replace: ".", ""  | replace: ":", "" }}">{{ page.timeslot }}</a></td>
                 <td>Level: 
                     {% if page.level == 1 %}
                     No prior knowledge / entry-level

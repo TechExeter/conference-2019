@@ -3,10 +3,10 @@ name: Cariad Eccleston
 title: Indie author
 talk-title: Strong, secure & human-free database credentials in Amazon Web Services
 headshot: /assets/images/headshots/head-cariad-eccleston.jpg
-track: "2"
+track: "3"
 timeslot: "12.00"
 type: Talk, 30 minutes
-level: X
+level: 2
 twitter:
  - cariadeccleston
 # linkedin: 

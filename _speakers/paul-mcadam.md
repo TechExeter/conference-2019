@@ -7,6 +7,7 @@ headshot: /assets/images/headshots/head-paul-mcadam.jpg
 track: Workshop
 timeslot: "11.30"
 type: Talk (30 mins) + Open Clinic (1 hour) 
+description: We look at best practice and try to fathom why, despite spectacular failures like Equifax, companies are still not managing Open Source components. Paul is holding an open clinic so if people want to offer some code to scan through he'll go through the results live. 
 level: 1
 twitter:
  - paulmcadam
