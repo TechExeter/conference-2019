@@ -65,7 +65,6 @@ li.strong {
     }
 }
 
-
 @media screen and (max-width: 768px) {
     .grid-4col {
         grid-column-gap: 10px; 
@@ -335,5 +334,16 @@ li.strong {
         color:#000;
         text-align:left;
         max-width:auto;
+    }
+}
+
+@supports (-ms-flow-from: thingy) {
+    .action-buttons {
+        justify-content: space-around;
+    }
+    .speakers {
+        .grid-flex {
+            justify-content: space-around;
+        }
     }
 }
