@@ -19,7 +19,7 @@ header:
     display: grid;
     grid-gap: 0.2em;
     gap:0.2em;
-    grid-template: 
+    grid-template-areas: 
       "t-0815 t123-0815 t123-0815 t123-0815" 
       "t-0900 t123-0900 t123-0900 t123-0900"
       "t-0915 t123-0915 t123-0915 t123-0915"
