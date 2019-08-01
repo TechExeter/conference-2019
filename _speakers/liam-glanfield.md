@@ -15,14 +15,17 @@ twitter:
 # linkedin: 
 takeaways:
  - A greater security awareness
- - How a red team operates
- - How a blue team should defend
+ - How a RED TEAM operates
+ - How a BLUE TEAM should defend
 tags: [ workshop ]
 ---
 {: .notice--warning} 
 Note: This is a workshop session
 
 This talk will give an individual with an IT background an introduction to the common approaches threat actors take to compromise a business and their systems. This includes sharing some of my experiences and stories giving examples of how the attack vectors were realised. 
+
+{: .notice--info}
+**A threat actor** – compared to a hacker or attacker – does not necessarily have any technical skill sets. They are a person or organization with malicious intent and a mission to compromise an organization’s security or data. This could be anything from physical destruction to simply copying sensitive information. It is a broad term and is intentionally used because it can apply to external and insider threats, including missions like hacktivism. 
 
 The talk will then be followed by an optional <strong>workshop</strong> allowing you to understand (and try out for real) the attack vectors in greater depth on our test network.
 

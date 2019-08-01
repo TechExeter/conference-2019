@@ -337,6 +337,7 @@ li.strong {
     }
 }
 
+/* EDGE fix for not supporting space-evenly in flexbox */
 @supports (-ms-flow-from: thingy) {
     .action-buttons {
         justify-content: space-around;
