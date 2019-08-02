@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "mint" # "default" "air", "aqua", "contrast", "dark",
 # Site Settings
 locale                   : "en-GB"
 timezone                 : "Europe/London"
-title                    : "TechExeter Conference 2019"
+title                    : "TechExeter Conference 11th Sept 2019"
 title_separator          : "-"
 name                     : "TechExeter"
-description              : "Annual Conference"
+description              : "The Annual TechExeter Conference on Wednesday 11th September 2019 at the University of Exeter"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
