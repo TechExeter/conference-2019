@@ -20,7 +20,7 @@ Your ticket includes:
 
 {: .notice--warning} 
 **Reduced Cost Tickets**<br/>
-For those from disadvanted backgrounds or on a low income, we have a limited number of reduced cost tickets available for you. These tickets have been kindly funded by community donations and by our sponsors. *If you need more assistance to be able to attend the conference, <a href="http://127.0.0.1:4000/about#contact">drop us a message</a>*
+For those from disadvantaged backgrounds or on a low income, we have a limited number of reduced cost tickets available for you. These tickets have been kindly funded by community donations and by our sponsors. *If you need more assistance to be able to attend the conference, <a href="http://127.0.0.1:4000/about#contact">drop us a message</a>*
 
 {: .notice--info} 
 **Got a discount code?**<br/>
