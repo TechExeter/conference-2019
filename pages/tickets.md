@@ -29,4 +29,6 @@ Select 'standard ticket' and then enter the discount code at the bottom of the n
 <script type="text/javascript" src="https://helmtickets.com/events/script/4561"></script>
 
 {: .notice} 
+Having trouble? Try the <a href="https://helmtickets.com/events/4561/techexeter-annual-conference-2019">Direct Booking Link</a>. <br/>
 *Tickets are now subject to VAT - the ticketing system will provide you with VAT invoices.*
+
