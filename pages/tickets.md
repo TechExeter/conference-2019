@@ -20,7 +20,7 @@ Your ticket includes:
 
 {: .notice--warning} 
 **Reduced Cost Tickets**<br/>
-For those from disadvantaged backgrounds or on a low income, we have a limited number of reduced cost tickets available for you. These tickets have been kindly funded by community donations and by our sponsors. *If you need more assistance to be able to attend the conference, <a href="http://127.0.0.1:4000/about#contact">drop us a message</a>*
+For those from disadvantaged backgrounds or on a low income, we have a limited number of reduced cost tickets available for you. These tickets have been kindly funded by community donations and by our sponsors. *If you need more assistance to be able to attend the conference, <a href="/about#contact">drop us a message</a>*
 
 {: .notice--info} 
 **Got a discount code?**<br/>
@@ -29,6 +29,7 @@ Select 'standard ticket' and then enter the discount code at the bottom of the n
 <script type="text/javascript" src="https://helmtickets.com/events/script/4561"></script>
 
 {: .notice} 
-Having trouble? Try the <a href="https://helmtickets.com/events/4561/techexeter-annual-conference-2019">Direct Booking Link</a>. <br/>
+Having trouble? Try the <a href="https://helmtickets.com/events/4561/techexeter-annual-conference-2019">Direct Booking Link</a>. Want to bulk book more than 6 tickets? <a href="/about#contact">Contact us!</a>
+<br/>
 *Tickets are now subject to VAT - the ticketing system will provide you with VAT invoices.*
 
