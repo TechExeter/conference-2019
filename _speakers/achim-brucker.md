@@ -34,7 +34,7 @@ takeaways:
 <p>Achim D. Brucker (<a href="http://www.brucker.uk" target="_blank" rel="noopener nofollow">www.brucker.uk</a>) is a Professor (Chair in Cybersecurity) at the University of Exeter, UK. Prior to that, he was a  Senior Lecturer at the Computer Science Department of The University of Sheffield, UK. </p>
 
 <p>He leads the research in software assurance and security 
-  (<a href="https:/logicalhacking.uk" target="_blank" rel="noopener nofollow">logicalhacking.com</a>).  Until December 2015, he was the global Security 
+  (<a href="https://logicalhacking.uk" target="_blank" rel="noopener nofollow">logicalhacking.com</a>).  Until December 2015, he was the global Security 
   Testing Strategist at SAP SE, were, among others, he defined and implemented 
   the security testing strategy for over 27000 developers world-wide. SAP's 
   risk-based security testing strategy of SAP that combines static, dynamic, 
