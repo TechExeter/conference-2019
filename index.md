@@ -133,10 +133,17 @@ This year we have <strong>25 speakers</strong> from a wide range of organisation
     <a href="https://www.informaticslab.co.uk/" target="_blank" rel="noopener nofollow"><img src="/assets/images/sponsor-logos/sponsor_metoffice.jpg" class="el-image" alt="The Met Office"/></a>
   </div>
   <div>
-    <a href="https://setsquared.exeter.ac.uk/" target="_blank" rel="noopener nofollow"><img src="/assets/images/sponsor-logos/sponsor_setsquared.jpg" class="el-image" alt="Set Squared Partnership"/></a></div>
+    <a href="https://setsquared.exeter.ac.uk/" target="_blank" rel="noopener nofollow"><img src="/assets/images/sponsor-logos/sponsor_setsquared.jpg" class="el-image" alt="Set Squared Partnership"/></a>
+  </div>
   <div>
     <a href="https://www.softwaresolved.com/" target="_blank" rel="noopener nofollow"><img src="/assets/images/sponsor-logos/sponsor_softwaresolved.jpg" class="el-image" alt="Software Solved"/></a>
   </div>
+  <div>
+    <a href="https://www.greymatter.com/?utm_source=techexeter&utm_medium=sponsor" target="_blank" rel="noopener nofollow"><img src="/assets/images/sponsor-logos/sponsor_greymatter.jpg" class="el-image" alt="Greymatter"/></a>
+  </div>  
+  <div>
+    <a href="https://www.advancinganalytics.co.uk" target="_blank" rel="noopener nofollow"><img src="/assets/images/sponsor-logos/sponsor_advancinganalytics.jpg" class="el-image" alt="Advancing Analytics"/></a>
+  </div>    
 </div>
 
 <div id="venue"></div>
