@@ -78,15 +78,15 @@ layout: default
               </tr>
               <tr>
                 <td>Start Time: <a href="/schedule#time_{{ page.timeslot | replace: ".", ""  | replace: ":", "" }}">{{ page.timeslot }}</a></td>
-                <td>Level: 
+                <td>
                     {% if page.level == 1 %}
-                    No prior knowledge / entry-level
+                    Level: No prior knowledge / entry-level
                     {% endif %}
                     {% if page.level == 2 %}
-                    Mid-level, some knowledge required
+                    Level: Mid-level, some knowledge required
                     {% endif %}
                     {% if page.level == 3 %}
-                    Advanced
+                    Level: Advanced
                     {% endif %}</td>
               </tr>
             </table>
