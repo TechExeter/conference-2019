@@ -1,7 +1,7 @@
 ---
 name: Tom Mason
 title: Director of Programming (CTO)
-company: Neuxs Mods
+company: Nexus Mods
 talk-title: Securing docker containers
 headshot: /assets/images/headshots/head-tom-mason.jpg
 track: "3"
