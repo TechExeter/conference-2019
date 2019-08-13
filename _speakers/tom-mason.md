@@ -19,6 +19,8 @@ takeaways:
 
 ---
 
-The world is moving to docker, but are you taking the necessary steps to keep yourself safe ? 
+Containerisation, particularly docker has gained massive traction over the last few years - over 40% of large production deployments are using docker, and over half of those are using orchestration. 
 
-We’ll go through methods to reduce your exposure to security issues running containers in production.
+Containerisation in production offers many benefits - speedy deployments, easy rollbacks, great compatibility, maintainability and good integration with testing and deployment tools but security is often an afterthought.
+
+In this talk we’ll go through some methods to reduce your exposure to security issues running containers in production.
