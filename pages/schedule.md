@@ -13,20 +13,20 @@ header:
   #schedule {
 
     margin:1em 0em 2em;
-    background:#fff; 
+    background:#fff;
     box-shadow:0px 0px 10px #999;
     padding:0.25em;
     display: grid;
     grid-gap: 0.2em;
     gap:0.2em;
-    grid-template-areas: 
-      "t-0815 t123-0815 t123-0815 t123-0815" 
+    grid-template-areas:
+      "t-0815 t123-0815 t123-0815 t123-0815"
       "t-0900 t123-0900 t123-0900 t123-0900"
       "t-0915 t123-0915 t123-0915 t123-0915"
-      "t-0930 t1-0930 t1-0930 t1-0930" 
+      "t-0930 t1-0930 t1-0930 t1-0930"
       "t-0945 t1-0930 t1-0930 t1-0930"
-      "thead t1head t2head t3head" 
-      "t-1000 t1-1000 t2-1000 t3-1000" 
+      "thead t1head t2head t3head"
+      "t-1000 t1-1000 t2-1000 t3-1000"
       "t-1015 t1-1000 t2-1000 t3-1000"
       "t-1030 t1-1030 t2-1000 t3-1000"
       "t-1045 t1-1030 t2-1045 t3-1045"
@@ -75,7 +75,7 @@ header:
       #schedule .time {
         display:none;
       }
-      
+
       #schedule .small-time {
         display:inline-block;
       }
@@ -135,6 +135,7 @@ header:
   <div class="speaker">{{ speaker.name }}</div>
   <div class="type"> {{ speaker.type }}</div>
   <div class="description">{{ speaker.description }}</div>
+  <div class="interest">Spaces are limited so be sure to <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhKUMymab32hHXFB-yqV-d1LaeXADM6LfdL0F9srh2Gfr5DA/viewform?usp=sf_link">register your interest</a>.</div>
 
   </div>
   {% endif %}

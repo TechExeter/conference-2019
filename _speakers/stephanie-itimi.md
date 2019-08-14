@@ -10,17 +10,17 @@ type: Workshop, 1 hour
 description: This workshop focuses on the basics of privacy. What the GDPR and Data Protection Act really means, how it can be applied and how can you create privacy policies that users and employees alike actually want.
 level: 1
 twitter:
- - afrocheri 
+ - afrocheri
 takeaways:
  - What is Privacy and why is it important?
  - GDPR and Data Protection Act Principles
  - The NIST Cybersecurity framework and its importance in designing privacy policies
 tags: [ workshop ]
 ---
-{: .notice--warning} 
-Note: This is a workshop session
+{: .notice--warning}
+Note: This is a workshop session, be sure to <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhKUMymab32hHXFB-yqV-d1LaeXADM6LfdL0F9srh2Gfr5DA/viewform?usp=sf_link">register your interest</a>
 
-Based on recent events and the lack of trust on the use of data, internet users are now concerned about having their personal information scattered about, the inclusion of a Privacy Policy has become a very important factor. It is used to inform your website visitors of just how protected their personal information is when they visit your site. 
+Based on recent events and the lack of trust on the use of data, internet users are now concerned about having their personal information scattered about, the inclusion of a Privacy Policy has become a very important factor. It is used to inform your website visitors of just how protected their personal information is when they visit your site.
 
 This workshop focuses on the basics of privacy. What the GDPR and Data Protection Act really means, how it can be applied and how can you create privacy policies that users and employees alike actually want.
 
