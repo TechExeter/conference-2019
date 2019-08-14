@@ -1,5 +1,6 @@
 ---
 name: Guy Buesnel
+pronoun:
 title: PNT Security Technologist
 company: Spirent
 talk-title: Trust but Verify - When GPS can go wrong

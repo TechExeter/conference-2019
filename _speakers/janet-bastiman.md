@@ -1,5 +1,6 @@
 ---
 name: Janet Bastiman
+pronoun: She/Her
 title: Chief Science Officer
 company: Storystream, MMC Ventures
 talk-title: Reject the evidence of your eyes and ears

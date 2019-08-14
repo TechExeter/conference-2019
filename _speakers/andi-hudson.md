@@ -1,5 +1,6 @@
 ---
 name: Andi Hudson
+pronoun: He/Him
 title: Cloud Security Architecture Lead 
 company: IBM Security
 talk-title: How do you secure a cloud? 

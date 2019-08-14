@@ -1,5 +1,6 @@
 ---
 name: Sam Vine
+pronoun: He/Him
 title: Associate Professor Psychology
 company: University of Exeter
 talk-title: Futures made of virtual reality - Hacking VR for learning

@@ -1,5 +1,6 @@
 ---
 name: Seb Coles
+pronoun: They/Them
 title: Expert Software Engineer
 company: UK Hydrographic Office
 talk-title: Developer Threat Modelling

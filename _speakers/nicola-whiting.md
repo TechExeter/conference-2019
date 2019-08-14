@@ -1,5 +1,6 @@
 ---
 name: Nicola Whiting
+pronoun: She/Her
 title: Chief Strategy Officer
 company: Titania Group
 talk-title: A.I. Diversity, Discrimination and Nation State Defence

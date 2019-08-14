@@ -1,5 +1,6 @@
 ---
 name: Roz Woodward
+pronoun: She/Her
 title: Co-founder & CEO
 company: Securious
 talk-title: Why we need diversity in cyber security - for everyone’s sake!

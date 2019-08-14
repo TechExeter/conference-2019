@@ -1,5 +1,6 @@
 ---
 name: Caroline Clark
+pronoun: She/Her
 title: Operations Director
 company: KETS Quantum Security
 talk-title: Quantum Communications 

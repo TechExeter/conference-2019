@@ -1,5 +1,6 @@
 ---
 name: Matthew Huxtable
+pronoun: He/Him
 title: Site Reliability Engineer
 company: Sparx
 talk-title: The forgotten musketeer - availability is a security concern too!

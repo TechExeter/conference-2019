@@ -1,5 +1,6 @@
 ---
 name: Daniel G. Cabrero
+pronoun:
 title: User Research consultant
 company: Personas Technology Ltd
 talk-title: Personas & Anti-Personas for Hacking & Anti-Hacking

@@ -1,5 +1,6 @@
 ---
 name: Samantha Parsons
+pronoun:
 title: Cyber Protect and Prepare Officer
 company: South West Regional Cyber Crime Unit
 talk-title: Decisions and Disruptions

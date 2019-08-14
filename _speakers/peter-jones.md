@@ -1,5 +1,6 @@
 ---
 name: Peter Jones
+pronoun:
 title: Senior Information Security Consultant 
 company: 3B Data Security
 talk-title: Practical Digital Forensics when everything is ablaze

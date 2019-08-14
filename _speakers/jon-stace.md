@@ -1,5 +1,6 @@
 ---
 name: Jon Stace
+pronoun: He/Him
 title: Director of Technology
 company: Software Solved Ltd
 talk-title: Using the Web Cryptography API in PWAs/SPAs

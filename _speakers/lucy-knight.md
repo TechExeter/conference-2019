@@ -1,5 +1,6 @@
 ---
 name: Lucy Knight
+pronoun: She/Her
 title: Lead Data Scientist 
 company: Food Standards Agency
 talk-title: Track Host for Track 3

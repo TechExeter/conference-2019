@@ -1,5 +1,6 @@
 ---
 name: Geoff Revill
+pronoun: He/Him
 title: Tech entrepreneur
 company: Krowdthink Ltd
 talk-title: Building an unhackable social platform

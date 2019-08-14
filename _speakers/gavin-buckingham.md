@@ -1,5 +1,6 @@
 ---
 name: Gavin Buckingham
+pronoun: He/Him
 title: Senior lecturer
 company: University of Exeter
 talk-title: Hacking human perception - illusions and virtual reality

@@ -1,5 +1,6 @@
 ---
 name: Alasdair Allan
+pronoun:
 title: Consultant
 company: Babilim Light Industries
 talk-title: The Demise of Big Data — Making Intelligent Insights at the Edge

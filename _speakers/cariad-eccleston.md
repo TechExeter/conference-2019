@@ -1,5 +1,6 @@
 ---
 name: Cariad Eccleston
+pronoun: She/Her
 title: Indie author
 talk-title: Strong, secure & human-free database credentials in Amazon Web Services
 headshot: /assets/images/headshots/head-cariad-eccleston.jpg

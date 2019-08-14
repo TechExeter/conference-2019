@@ -1,5 +1,6 @@
 ---
 name: Paul Mcadam
+pronoun:
 title: Director
 company: Source Code Control
 talk-title: Don't be the next Equifax

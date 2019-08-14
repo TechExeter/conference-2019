@@ -1,5 +1,6 @@
 ---
 name: Stephanie Itimi
+pronoun: She/Her
 title: Founder / Technology Educator
 company: Seidea
 talk-title: Privacy 101 - What do people actually want?

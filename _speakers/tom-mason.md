@@ -1,5 +1,6 @@
 ---
 name: Tom Mason
+pronoun: He/Him
 title: Director of Programming (CTO)
 company: Nexus Mods
 talk-title: Securing docker containers

@@ -1,5 +1,6 @@
 ---
 name: Pete Woodward
+pronoun:
 title: Co-founder & CTO
 company: Securious
 talk-title: The anatomy of a payment card breach

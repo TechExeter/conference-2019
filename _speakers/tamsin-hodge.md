@@ -1,5 +1,6 @@
 ---
 name: Tamsin Hodge
+pronoun: She/Her
 title: Product Owner and STEM Ambassador team lead
 company: UK Hydrographic Office
 talk-title: Track Host for Track 2

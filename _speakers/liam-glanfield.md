@@ -1,5 +1,6 @@
 ---
 name: Liam Glanfield
+pronoun:
 title: Managing Consultant
 company: NCC Group
 talk-title: Know Your Threat Actor

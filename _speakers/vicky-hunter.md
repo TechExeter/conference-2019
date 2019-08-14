@@ -1,5 +1,6 @@
 ---
 name: Vicky Hunter
+pronoun: She/Her
 title: Entrepreneur Engagement Manager
 company: Tech Nation
 talk-title: How to Hack the Tech Ecosystem

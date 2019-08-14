@@ -1,5 +1,6 @@
 ---
 name: Olly Stephens
+pronoun: He/Him
 title: DevSecOps Architect
 company: Adarga
 talk-title: Policy as code - why you should, how you can

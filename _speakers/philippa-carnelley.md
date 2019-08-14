@@ -1,5 +1,6 @@
 ---
 name: Philippa Carnelley
+pronoun: She/Her
 title: UX Designer
 company: Flybe
 talk-title: Track Host for Track 1
