@@ -50,6 +50,9 @@ tracks:
         <h2>{{ speaker.name }} {% if speaker.pronoun  %} ({{ speaker.pronoun }}) {% endif %}</h2>
         <h3>{{ speaker.type }} / Track {{ speaker.track }} / {{ speaker.timeslot }}</h3>
         <p><strong>{{ speaker.title }}</strong> {% if speaker.company %}  at {{ speaker.company }} {% endif %}</p>
+        <table style="border:2px solid; margin:1em 0em; width:auto; font-size:200%; display:table;">
+        <tr><td>HEADCOUNT:</td><td> ___ (M) ___ (F) </td></tr>
+        </table>
       </td>
       </tr>
       <tr><td colspan="2"> <h3>{{ speaker.talk-title }}</h3><p>{{ speaker.content | markdownify }}</p></td></tr>
