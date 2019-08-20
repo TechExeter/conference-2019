@@ -105,42 +105,9 @@ The beautiful venue at the University of Exeter is the perfect space to network,
 </div>
 </div>
 
-
 <a href="/about#contact" class="btn btn--primary">Contact us</a> 
 
-<h2 class="sponsor">GOLD SPONSOR</h2>
-
-<div style="background:#fff; padding:1em; margin:1em;box-shadow: gray 0px 0px 8px;margin-bottom:1em;"  class="sponsor-flex">
-  <div>
-    <a href="http://business-school.exeter.ac.uk/study/masters/mba/" target="_blank" rel="noopener nofollow"><img src="/assets/images/sponsor-logos/sponsor_uoe_business.jpg" class="el-image" alt="University of Exeter Business School"/></a>
-  </div>     
-</div>
-
-<h2 class="sponsor">BRONZE SPONSORS</h2>
-
-<div style="background:#fff; padding:1em; margin:1em;box-shadow: gray 0px 0px 8px;margin-bottom:1em;"  class="sponsor-flex-3">
-  <div>
-    <a href="https://hmlandregistry.blog.gov.uk/tag/digital-data-and-technology/" target="_blank" rel="noopener nofollow"><img src="/assets/images/sponsor-logos/sponsor_hm_landregistry.jpg" class="el-image" alt="HM Land Registry"/></a>
-  </div>
-  <div>
-    <a href="https://heartofswlep.co.uk/about-the-lep/strategies-and-priorities/digital-skills-partnership/" target="_blank" rel="noopener nofollow"><img src="/assets/images/sponsor-logos/sponsor_hotswlep_dsp.jpg" class="el-image" alt="Heart of the South West Local Enterprise Partnership - Digital Skills Partnership"/></a>
-  </div>
-  <div>
-    <a href="https://www.informaticslab.co.uk/" target="_blank" rel="noopener nofollow"><img src="/assets/images/sponsor-logos/sponsor_metoffice.jpg" class="el-image" alt="The Met Office"/></a>
-  </div>
-  <div>
-    <a href="https://setsquared.exeter.ac.uk/" target="_blank" rel="noopener nofollow"><img src="/assets/images/sponsor-logos/sponsor_setsquared.jpg" class="el-image" alt="Set Squared Partnership"/></a>
-  </div>
-  <div>
-    <a href="https://www.softwaresolved.com/" target="_blank" rel="noopener nofollow"><img src="/assets/images/sponsor-logos/sponsor_softwaresolved.jpg" class="el-image" alt="Software Solved"/></a>
-  </div>
-  <div>
-    <a href="https://www.greymatter.com/?utm_source=techexeter&utm_medium=sponsor" target="_blank" rel="noopener nofollow"><img src="/assets/images/sponsor-logos/sponsor_greymatter.jpg" class="el-image" alt="Greymatter"/></a>
-  </div>  
-  <div>
-    <a href="https://www.advancinganalytics.co.uk" target="_blank" rel="noopener nofollow"><img src="/assets/images/sponsor-logos/sponsor_advancinganalytics.jpg" class="el-image" alt="Advancing Analytics"/></a>
-  </div>    
-</div>
+{% include sponsors.html %}
 
 <h2>Details</h2>
 
