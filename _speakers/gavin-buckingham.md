@@ -22,6 +22,11 @@ takeaways:
 
 {% include speakers-takeaways.html %}
 
+<h3>Bonus pic!</h3>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">One I&#39;d not seen before - an extremely strong motion illusion <a href="https://t.co/vOm6ZTjh8k">pic.twitter.com/vOm6ZTjh8k</a></p>&mdash; Gavin Buckingham (@DrGBuckingham) <a href="https://twitter.com/DrGBuckingham/status/1164561271808778240?ref_src=twsrc%5Etfw">August 22, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <h3>Bio</h3>
 <p>I received my PhD in psychology from the University of Aberdeen in 2008, after which time I moved to Canada to work as a postdoctoral fellow at the Brain and Mind Institute at Western University. During this time, I began to study human visual and haptic perception, with a particular focus on our experience of how heavy things feel when we interact with them.</p>
 <p>I moved to the University of Exeter in 2016, and am currently a senior lecturer in the Department of Sport and Health Sciences.</p>
