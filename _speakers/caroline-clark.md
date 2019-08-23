@@ -18,7 +18,9 @@ takeaways:
 - What's happening in the uk on this
 
 ---
+Quantum Technologies are moving out of the lab and into the big wide world.
 
-TBC
+I'll discuss the UK investment in quantum tech and how it is now moving from a laboratory environment in academia via a growing community of startups and spin outs - particularly in the South West. I'll also touch on our own journey as a young quantum communications company and the challenges we currently face.
+
 
 {% include speakers-takeaways.html %}
