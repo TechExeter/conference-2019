@@ -80,6 +80,34 @@ header:
         display:inline-block;
       }
   }
+
+ #workshops {
+
+    margin:1em 0em 2em;
+    background:#fff;
+    box-shadow:0px 0px 10px #999;
+    padding:0.25em;
+    display: grid;
+    grid-gap: 1em;
+    gap:1em;
+    grid-template-areas:
+      "wmorning wmorning"
+      "w1000 w1130"
+      "wafternoon wafternoon"
+      "w1400 w1445";
+  }
+
+  #workshops .description { 
+    margin:1em 0em 0.5em;
+  }
+  #workshops .heading h2 { 
+    background: #11999E;
+    color: #fff;
+    padding: 0.5em;
+    margin:0px;
+  }
+  #workshops h2 { margin-top:0px; border-bottom:none; }
+
 </style>
 
 <h1 style="margin-top:1em;">Talk Schedule</h1>
@@ -121,23 +149,28 @@ header:
 
 </div>
 
-<div style="text-align:center;"><em>* Schedule is subject to change</em></div>
-
-
 <h1>Workshops</h1>
-
+All workshops will be taking place on floor 2 of Building One.
+Spaces are limited so be sure to <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhKUMymab32hHXFB-yqV-d1LaeXADM6LfdL0F9srh2Gfr5DA/viewform?usp=sf_link" target="_blank">register your interest</a>.
 <div id="workshops">
-
+  <div class="heading" style="grid-area: wmorning;">
+  <h2>Morning Workshops</h2>
+  </div>
+  <div class="heading" style="grid-area: wafternoon;">
+  <h2>Afternoon Workshops</h2>
+  </div>
   {% for speaker in scheduleSorted %}
   {% if speaker.track == "Workshop" %}
-  <div class="item workshop">
-  <a href="{{ speaker.url }}"><h2>{{ speaker.timeslot }} - {{ speaker.talk-title }}</h2></a>
+  <div class="item workshop" style="grid-area: w{{ speaker.timeslot | replace: ".", ""  | replace: ":", "" }};">
+  <a href="{{ speaker.url }}"><h2>{{ speaker.talk-title }}</h2></a>
   <div class="speaker">{{ speaker.name }}</div>
-  <div class="type"> {{ speaker.type }}</div>
+  <div class="type"><strong>{{ speaker.timeslot }} </strong> {{ speaker.type }}</div>
   <div class="description">{{ speaker.description }}</div>
-  <div class="interest">Spaces are limited so be sure to <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhKUMymab32hHXFB-yqV-d1LaeXADM6LfdL0F9srh2Gfr5DA/viewform?usp=sf_link">register your interest</a>.</div>
-
+  <a class="btn btn--primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdhKUMymab32hHXFB-yqV-d1LaeXADM6LfdL0F9srh2Gfr5DA/viewform?usp=sf_link" target="_blank">Register Here</a>
   </div>
   {% endif %}
   {% endfor %}
 </div>
+
+
+<div style="text-align:center;"><em>* Schedule is subject to change</em></div>
