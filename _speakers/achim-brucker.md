@@ -2,7 +2,7 @@
 name: Achim Brucker
 pronoun:
 title: Professor in Cybersecurity / Software Security Expert
-company: Univeristy of Exeter 
+company: University of Exeter 
 talk-title: Hacking (Not So) Smart Things 101
 headshot: /assets/images/headshots/head-achim-brucker.jpg
 track: "2"
