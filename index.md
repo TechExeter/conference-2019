@@ -29,14 +29,19 @@ With three conference tracks (TECH, HACK, and DEVELOP), four workshops and hands
     <a href="/tickets" class="btn btn--primary btn--x-large"><i class="fas fa-ticket-alt"></i><br/>Tickets</a>
   </div>
   <div class="action-button">
+    <a  class="btn btn--primary btn--x-large" href="https://www.google.com/maps/d/viewer?mid=1XhJGsiMwEeAtYzU2mLxjVrvGgi1kNBPF&hl=en&usp=sharing" target="_blank"><i class="fas fa-map-marked"></i><br/> Map</a>
+  </div>
+  <div class="action-button">
     <a href="/schedule" class="btn btn--primary btn--x-large"><i class="far fa-calendar-alt"></i><br/>Schedule</a>
   </div>
   <div class="action-button">
     <a href="/speakers" class="btn btn--primary btn--x-large" ><i class="fas fa-user"></i><br/>Speakers</a>
   </div>
+  <!--
   <div class="action-button">
     <a href="/sponsor" class="btn btn--primary btn--x-large"><i class="fas fa-ribbon"></i><br/>Sponsor</a>
   </div>
+  -->
 </div>
 
 <script>
@@ -119,14 +124,18 @@ This year we have <strong>25 speakers</strong> from a wide range of organisation
 
 We're located across Building One and the XFI Centre - a fabulous venue set in the beautiful University grounds. The Business School at the University of Exeter is one of the UK's leading centres of business education and research.
 
-* Map and Directions : <a href="/assets/images/campus_map_techexeter.png" target="_blank">Campus Map</a>
+* Map / Parking / Directions : <a href="https://www.google.com/maps/d/viewer?mid=1XhJGsiMwEeAtYzU2mLxjVrvGgi1kNBPF&hl=en&usp=sharing" target="_blank">Google Map</a> / <a href="/assets/images/campus_map_techexeter.png" target="_blank">Campus Map</a>
 * Visiting Exeter : Find out more about visiting Exeter at <a href="https://www.visitexeter.com/" target="_blank" rel="nofollow noopener">www.visitexeter.com</a>
 
+<!--
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d323217.8869494084!2d-3.529957!3d50.735897!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486da443c2591225%3A0xec7a55c9956b4bd7!2sXFi+Building%2C+Exeter+EX4+4ST!5e0!3m2!1sen!2suk!4v1563888754741!5m2!1sen!2suk" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+-->
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1XhJGsiMwEeAtYzU2mLxjVrvGgi1kNBPF&hl=en"  width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 #### Parking
 
-Car parking is available at Car Park C (public car park). Places on a first come first served basis. 
+Car parking is available at Car Park C (<a href="https://www.google.com/maps/d/viewer?mid=1XhJGsiMwEeAtYzU2mLxjVrvGgi1kNBPF&hl=en&usp=sharing" target="_blank">visitor car park</a>). Places on a first come first served basis. 
 
 Alternative all-day parking is available at the <a href="https://goo.gl/maps/YmtXn5QaZAka7QtT9" target="_blank" rel="nofollow noopener">Devon & Exeter Squash Club</a> on Prince Charles Road.
 

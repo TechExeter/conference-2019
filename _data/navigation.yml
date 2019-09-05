@@ -21,4 +21,4 @@ tickets:
       - title: Venue Info
         url: /#venue
       - title: Venue Map
-        url: /assets/images/campus_map_techexeter.png
+        url: https://www.google.com/maps/d/viewer?mid=1XhJGsiMwEeAtYzU2mLxjVrvGgi1kNBPF&hl=en&usp=sharing
