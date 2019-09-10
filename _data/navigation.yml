@@ -3,8 +3,6 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
  
-  - title: "Tickets"
-    url: /tickets
   - title: "Schedule"
     url: /schedule
   - title: "Speakers"
