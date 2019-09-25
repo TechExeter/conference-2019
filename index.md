@@ -20,9 +20,10 @@ The multi-disciplinary, grassroots tech conference from <a href="/about">TechExe
 <h1>CONFERENCE OVER!</h1>
 <p>Thank you all for coming - we had a record turn-out and the atmosphere was amazing!</p>
 <ul>
-<li>Please leave your feedback here : <a rel="nofollow noopener" href="https://forms.gle/obGWWWRKDVsJ4fPv8">https://forms.gle/obGWWWRKDVsJ4fPv8</a></li>
 <li>Pics from the day : <a rel="nofollow noopener" href="https://www.flickr.com/photos/152171701@N07/albums/72157710821582818">https://www.flickr.com/photos/152171701@N07/albums/72157710821582818</a>  </li>
+<li>Recordings and videos : <a rel="nofollow noopener" href="https://www.youtube.com/playlist?list=PLjiDZsulHsz6Y8d2MR5YG8XlF0h7Gg1qx">https://www.youtube.com/playlist?list=PLjiDZsulHsz6Y8d2MR5YG8XlF0h7Gg1qx</a></li>
 <li>Slides and Resources: <a rel="nofollow noopener" href="https://github.com/TechExeter/conference-2019-slidedecks">https://github.com/TechExeter/conference-2019-slidedecks</a> </li>
+
 </ul>
 
 </div>
